@@ -1,0 +1,1250 @@
+An allocution, or allocutus, is a formal statement made to the court by the defendant who has been found guilty prior to being sentenced. It is part of the criminal procedure in some jurisdictions using common law.
+
+Concept 
+An allocution allows the defendant to explain why the sentence should be lenient. In plea bargains, an allocution may be required of the defendant. The defendant explicitly admits specifically and in detail the actions and their reasons in exchange for a reduced sentence.
+
+In principle, that removes any doubt as to the exact nature of the defendant's guilt in the matter.
+
+The term "allocution" is used generally only in jurisdictions in the United States, but there are vaguely similar processes in other common law countries. In many other jurisdictions, it is for the defense lawyer to mitigate on their client's behalf, and the defendant rarely has the opportunity to speak.
+
+Australia
+In Australia, the term allocutus is used by the Clerk of Arraigns or another formal associate of the court. It is generally phrased as, "Prisoner at the Bar, you have been found Guilty by a jury of your peers of the offense of XYZ. Do you have anything to say as to why the sentence of this Court should not now be passed upon you?" The defense counsel will then make a plea in mitigation (also called submissions on penalty) in an attempt to mitigate the relative seriousness of the offense and heavily refer to and rely upon the defendant's previous good character and good works, if any.
+
+The right to make a plea in mitigation is absolute. If a judge or magistrate refuses to hear such a plea or does not properly consider it, the sentence can be overturned on appeal.
+
+United States
+In most of the United States, defendants are allowed the opportunity to allocute before a sentence is passed. Some jurisdictions hold that as an absolute right. In its absence, a sentence but not the conviction may be overturned, resulting in the need for a new sentencing hearing. In the federal system, Federal Rules of Criminal Procedure 32(i)(4) provides that the court must "address the defendant personally in order to permit the defendant to speak or present any information to mitigate the sentence."
+
+The federal public defender recommends that defendants speak in terms of how a lenient sentence will be sufficient but not greater than necessary to comply with the statutory directives set forth in .
+
+See also
+ Confession (law)
+
+References
+
+Criminal procedure
+Evidence law
+
+In propositional logic, affirming the consequent, sometimes called converse error, fallacy of the converse, or confusion of necessity and sufficiency, is a formal fallacy of taking a true conditional statement (e.g., "if the lamp were broken, then the room would be dark") under certain assumptions (there are no other lights in the room, it is nighttime and the windows are closed), and invalidly inferring its converse ("the room is dark, so the lamp must be broken"), even though that statement may not be true under the same assumptions. This arises when the consequent ("the room would be dark") has other possible antecedents (for example, "the lamp is in working order, but is switched off" or "there is no lamp in the room").
+
+Converse errors are common in everyday thinking and communication and can result from, among other causes, communication issues, misconceptions about logic, and failure to consider other causes.
+
+The opposite statement, denying the consequent, is called modus tollens and is a valid form of argument.
+
+Formal description
+
+Affirming the consequent is the action of taking a true statement  and invalidly concluding its converse . The name affirming the consequent derives from using the consequent, Q, of , to conclude the antecedent P. This fallacy can be summarized formally as  or, alternatively, .
+The root cause of such a logical error is sometimes failure to realize that just because P is a possible condition for Q, P may not be the only condition for Q, i.e. Q may follow from another condition as well.
+
+Affirming the consequent can also result from overgeneralizing the experience of many statements having true converses. If P and Q are "equivalent" statements, i.e. , it is possible to infer P under the condition Q. For example, the statements "It is August 13, so it is my birthday"  and "It is my birthday, so it is August 13"  are equivalent and both true consequences of the statement "August 13 is my birthday" (an abbreviated form of ).
+
+Of the possible forms of "mixed hypothetical syllogisms," two are valid and two are invalid. Affirming the antecedent (modus ponens) and denying the consequent (modus tollens) are valid. Affirming the consequent and denying the antecedent are invalid.
+
+Additional examples
+Example 1
+
+One way to demonstrate the invalidity of this argument form is with a counterexample with true premises but an obviously false conclusion.  For example:
+
+If someone lives in San Diego, then they live in California.
+Joe lives in California.
+Therefore, Joe lives in San Diego.
+
+There are many places to live in California other than San Diego; however, one can affirm with certainty that "if someone does not live in California" (non-Q), then "this person does not live in San Diego" (non-P). This is the contrapositive of the first statement, and it must be true if and only if the original statement is true.
+
+Example 2
+
+Here is another useful, obviously fallacious example.
+
+If an animal is a dog, then it has four legs.
+My cat has four legs.
+Therefore, my cat is a dog.
+
+Here, it is immediately intuitive that any number of other antecedents ("If an animal is a deer...", "If an animal is an elephant...", "If an animal is a moose...", etc.) can give rise to the consequent ("then it has four legs"), and that it is preposterous to suppose that having four legs must imply that the animal is a dog and nothing else.  This is useful as a teaching example since most people can immediately recognize that the conclusion reached must be wrong (intuitively, a cat cannot be a dog), and that the method by which it was reached must therefore be fallacious.
+
+Example 3
+
+Arguments of the same form can sometimes seem superficially convincing, as in the following example:
+
+If Brian had been thrown off the top of the Eiffel Tower, then he would be dead.
+Brian is dead.
+Therefore, Brian was thrown off the top of the Eiffel Tower.
+
+Being thrown off the top of the Eiffel Tower is not the only cause of death, since there exist numerous different causes of death.
+
+Example 4
+
+In Catch-22, the chaplain is interrogated for supposedly being "Washington Irving"/"Irving Washington", who has been blocking out large portions of soldiers' letters home. The colonel has found such a letter, but with the Chaplain's name signed.
+
+"You can read, though, can't you?" the colonel persevered sarcastically. "The author signed his name."
+"That's my name there."
+"Then you wrote it. Q.E.D."
+
+P in this case is 'The chaplain signs his own name', and Q 'The chaplain's name is written'. The chaplain's name may be written, but he did not necessarily write it, as the colonel falsely concludes.Example 5
+
+When teaching the scientific method, the following example is used to illustrate why, via the fallacy of affirming the consequent, no scientific theory is ever proven true but rather simply failed to be falsified.
+
+ If this theory is correct, we will observe X.
+ We observe X.
+ Therefore, this theory is correct.
+
+Concluding or assuming that a theory is true because of a prediction it makes being observed is invalid. This is one of the challenges of applying the scientific method though rarely is it brought up in academic contexts as it is unlikely to be of consequence to the results of the study. Much more common is questioning the validity of the theory, the validity of expecting the theory to have predicted the observation, and/or the validity of the observation itself.
+
+See also
+
+ Abductive reasoning
+ Appeal to consequences
+ Confusion of the inverse
+ Denying the antecedent
+ Fallacy of the single cause
+ Fallacy of the undistributed middle
+ Modus ponens Modus tollens Necessity and sufficiency
+ Post hoc ergo propter hoc''
+
+References
+
+Logic articles needing expert attention
+Formal fallacies
+
+परवेज़ मुशर्रफ़ (उर्दू: پرويز مشرف; जन्म अगस्त 11, 1943) पाकिस्तान के राष्ट्रपति और सेना प्रमुख रह चुके हैं। इन्होंने साल 1999 में नवाज़ शरीफ की लोकतान्त्रिक सरकार का तख्ता पलट कर पाकिस्तान की बागडोर संभाली और 20 जून, 2001 से 18 अगस्त 2008 तक पाकिस्तान के राष्ट्रपति रहे। 5 फरवरी 2023 को दुबई में निधन हो गया ।
+
+प्रारंभिक जीवन 
+मुशर्रफ़ का जन्म दिल्ली शहर में दरियागंज में हुआ था। भारत के विभाजन के बाद उनका परिवार कराची में जाकर बसा।
+
+पाकिस्तान के सेनाध्यक्ष 
+अप्रैल से जून 1999 तक भारत और पाकिस्तान के बीच हुए कारगिल युद्ध के दौरान मुशर्रफ़ ही पाकिस्तान के सेना-प्रमुख थे।
+
+पाकिस्तान के राष्ट्रपति 
+अक्टूबर 1999 में नवाज़ शरीफ़ ने जब मुशर्रफ़ को उनके पद से हटाने की कोशिश की तो मुशर्रफ़ के प्रति वफ़ादार जनरलों ने शरीफ़ का ही तख्ता पलट करके सरकार पर कब्जा कर लिया। मई 2000 में पाकिस्तान के सर्वोच्च न्यायालय ने आदेश दिया कि पाकिस्तान में चुनाव कराए जाएं। मुशर्रफ़ ने जून 2001 में तत्कालीन राष्ट्रपति रफीक़ तरार को हटा दिया व खुद राष्ट्रपति बन गए। अप्रैल 2002 में उन्होंने राष्ट्रपति बने रहने के लिए जनमत-संग्रह कराया जिसका अधिकतर राजनैतिक दलों ने बहिष्कार किया। अक्टूबर 2002 में पाकिस्तान में चुनाव हुए जिसमें मुशर्रफ़ का समर्थन करने वाली मुत्ताहिदा मजलिस-ए-अमाल पार्टी को बहुमत मिला। इनकी सहायता से मुशर्रफ़ ने पाकिस्तान के संविधान में कई परिवर्तन कराए जिनसे 1999 के तख्ता-पलट और मुशर्रफ़ के अन्य कई आदेशों को वैधानिक सम्मति मिल गई। {{तथ्य}
+
+मुशर्रफ़ के शासन के दौरान भारत पर उग्रवादी हमले बढ़े, लेकिन बाद में दोनों देशों के बीच शान्ति की बात-चीत भी आगे बढ़ी। 2005 में परेड पत्रिका ने मुशर्रफ़ को दुनिया के 10 सबसे बुरे तानाशाहों की सूची में शामिल किया। २४ नवम्बर २००७ को उन्होने सेना प्रमुख का पद त्याग दिया तथा असैन्य राष्ट्रपति के रूप में शपथ ली।
+
+पाकिस्तान के शासक के रूप में कार्यकाल के दौरान प्रमुख घटनाएं
+
+अमेरिका पर आतंकवादी हमला (9/11)
+11 सितम्बर 2001 के हमले के बाद जब संयुक्त राज्य अमरीका ने अफ़गानिस्तान और ईराक पर युद्ध शुरु किया तो मुशर्रफ़ ने अमेरिका का पूरा समर्थन किया।
+
+नवाब बुग्ती हत्याकांड 
+नवाब अकबर खान बुगती पाकिस्तान के बलूचिस्तान प्रांत के एक राष्ट्रवादी नेता थे जो बलूचिस्तान को पाकिस्तान से अलग एक देश बनाने के लिए संघर्ष कर रहे थे। 2006 में बलूचिस्तान के कोहलू जिले में एक सैन्य कार्रवाई में अकबर बुगती और उनके कई सहयोगियों की हत्या कर दी गई थी। इस अभियान का आदेश जनरल परवेज़ मुशर्रफ ने दिया था जो तब देश के सैन्य प्रमुख और राष्ट्रपति दोनों थे।
+
+आपातकाल 
+मुशर्रफ ने पाकिस्तान में 2007 में आपातकाल लागू कर दिया।
+
+बेनजीर भुट्टो की हत्या 
+बेनजीर भुट्टो दिसम्बर 2007 में रावलपिंडी में एक चुनावी रैली के बाद एक आत्मघाती हमले में मारी गई। मुशर्रफ पर उन्हें जरूरी सुरक्षा मुहैया नहीं कराने के आरोप लगे।
+
+लाल मस्जिद पर हमला 
+मुशर्रफ के आदेश पर 2007 में लाल मस्जिद पर सैन्य कार्रवाई की गई जिसमें लगभग 90 धार्मिक विद्यार्थियों की मृत्यु हो गई थी।
+
+आगरा शिखर वार्ता 
+भारत के तत्कालीन प्रधानमंत्री श्री अटल बिहारी वाजपेयी के साथ आगरा में पाकिस्तान के राष्ट्राध्यक्ष के रूप में मुलाकात की। इस मुलाकात का दोनों देशों के रिश्तों पर कोई खास असर नहीं पडा।
+
+शीर्ष न्यायाधीश की बर्खास्तगी 
+9 मार्च 2007 को उन्होंने शीर्ष न्यायाधीश इफ्तिखार मोहम्मद चौधरी को जबरन पदमुक्त कर दिया। उनके इस कदम के बाद समूचे पाकिस्तान में वकीलों ने मुशर्रफ के खिलाफ आंदोलन कर दिया।
+
+शासन के अंत के बाद के प्रमुख घटनाक्रम 
+मुशर्रफ का शासन समाप्त होने के बाद उन्होंने कुछ समय के लिए देश छोड़ दिया। किंतु वापस आते ही उन पर कई मुकद्दमे चलाए गए और इन्हें गिरफ्तार कर लिया गया।
+
+मुकद्दमे तथा गिरफ्तारी 
+पूर्व प्रधानमंत्री बेनजीर भुट्टो तथा बलूचिस्तान के राष्ट्रवादी नेता अकबर खान बुगती की हत्या तथा लाल मस्जिद की करवाई के सिलसिले में उन्हें गिरफ्तार किया गया।
+2007 में आपातकाल के दौरान जजों को हिरासत में लिए जाने के मामले में भी केस चलाया गया।
+2013 में नवाज शरीफ सरकार ने उन पर राजद्रोह का मुकद्दमा शुरू करने के लिए सुप्रीम कोर्ट से अनुरोध किया। पाकिस्तान में इस आरोप के सही साबित होने पर मृत्युदंड तक का प्रावधान है।
+
+सन्दर्भ 
+
+पाकिस्तान के तानाशाह
+पाकिस्तान
+पाकिस्तान के सेनाध्यक्ष
+दिल्ली के लोग
+1943 में जन्मे लोग
+
+Adobe ( ; ) is a building material made from earth and organic materials.  is Spanish for mudbrick. In some English-speaking regions of Spanish heritage, such as the Southwestern United States, the term is used to refer to any kind of earthen construction, or various architectural styles like Pueblo Revival or Territorial Revival. Most adobe buildings are similar in appearance to cob and rammed earth buildings. Adobe is among the earliest building materials, and is used throughout the world.
+
+Adobe architecture has been dated to before 5,100 B.C.
+
+Description
+Adobe bricks are rectangular prisms small enough that they can quickly air dry individually without cracking. They can be subsequently assembled, with the application of adobe mud to bond the individual bricks into a structure.  There is no standard size, with substantial variations over the years and in different regions. In some areas a popular size measured  weighing about ; in other contexts the size is  weighing about . The maximum sizes can reach up to ; above this weight it becomes difficult to move the pieces, and it is preferred to ram the mud in situ, resulting in a different typology known as rammed earth.
+
+Strength
+In dry climates, adobe structures are extremely durable, and account for some of the oldest existing buildings in the world. Adobe buildings offer significant advantages due to their greater thermal mass, but they are known to be particularly susceptible to earthquake damage if they are not reinforced. Cases where adobe structures were widely damaged during earthquakes include the 1976 Guatemala earthquake, the 2003 Bam earthquake, and the 2010 Chile earthquake.
+
+Distribution
+Buildings made of sun-dried earth are common throughout the world (Middle East, Western Asia, North Africa, West Africa, South America, Southwestern North America, Southwestern and Eastern Europe.). Adobe had been in use by indigenous peoples of the Americas in the Southwestern United States, Mesoamerica, and the Andes for several thousand years. Puebloan peoples built their adobe structures with handsful or basketsful of adobe, until the Spanish introduced them to making bricks. Adobe bricks were used in Spain from the Late Bronze and Iron Ages (eighth century BCE onwards). Its wide use can be attributed to its simplicity of design and manufacture, and economics.
+
+Etymology
+
+The word adobe  has existed for around 4,000 years with relatively little change in either pronunciation or meaning. The word can be traced from the Middle Egyptian () word ḏbt "mud brick" (with vowels unwritten). Middle Egyptian evolved into Late Egyptian and finally to Coptic (), where it appeared as ⲧⲱⲃⲉ tōbə. This was adopted into Arabic as  aṭ-ṭawbu or aṭ-ṭūbu, with the definite article al- attached to the root tuba. This was assimilated into the Old Spanish language as adobe , probably via Mozarabic. English borrowed the word from Spanish in the early 18th century, still referring to mudbrick construction.
+
+In more modern English usage, the term adobe has come to include a style of architecture popular in the desert climates of North America, especially in New Mexico, regardless of the construction method.
+
+Composition
+
+An adobe brick is a composite material made of earth mixed with water and an organic material such as straw or dung. The soil composition typically contains sand, silt and clay. Straw is useful in binding the brick together and allowing the brick to dry evenly, thereby preventing cracking due to uneven shrinkage rates through the brick. Dung offers the same advantage. The most desirable soil texture for producing the mud of adobe is 15% clay, 10–30% silt, and 55–75% fine sand. Another source quotes 15–25% clay and the remainder sand and coarser particles up to cobbles , with no deleterious effect. Modern adobe is stabilized with either emulsified asphalt or Portland cement up to 10% by weight.
+
+No more than half the clay content should be expansive clays, with the remainder non-expansive illite or kaolinite. Too much expansive clay results in uneven drying through the brick, resulting in cracking, while too much kaolinite will make a weak brick. Typically the soils of the Southwest United States, where such construction has been widely used, are an adequate composition.
+
+Material properties
+
+Adobe walls are load bearing, i.e. they carry their own weight into the foundation rather than by another structure, hence the adobe must have sufficient compressive strength. In the United States, most building codes call for a minimum compressive strength of 300 lbf/in2 (2.07 newton/mm2) for the adobe block. Adobe construction should be designed so as to avoid lateral structural loads that would cause bending loads. The building codes require the building sustain a 1 g lateral acceleration earthquake load. Such an acceleration will cause lateral loads on the walls, resulting in shear and bending and inducing tensile stresses. To withstand such loads, the codes typically call for a tensile modulus of rupture strength of at least 50 lbf/in2 (0.345 newton/mm2) for the finished block.
+
+In addition to being an inexpensive material with a small resource cost, adobe can serve as a significant heat reservoir due to the thermal properties inherent in the massive walls typical in adobe construction. In climates typified by hot days and cool nights, the high thermal mass of adobe mediates the high and low temperatures of the day, moderating the temperature of the living space. The massive walls require a large and relatively long input of heat from the sun (radiation) and from the surrounding air (convection) before they warm through to the interior. After the sun sets and the temperature drops, the warm wall will continue to transfer heat to the interior for several hours due to the time-lag effect. Thus, a well-planned adobe wall of the appropriate thickness is very effective at controlling inside temperature through the wide daily fluctuations typical of desert climates, a factor which has contributed to its longevity as a building material.
+
+Thermodynamic material properties have significant variation in the literature. Some experiments suggest that the standard consideration of conductivity is not adequate for this material, as its main thermodynamic property is inertia, and conclude that experimental tests should be performed over a longer period of time than usual - preferably with changing thermal jumps. There is an effective R-value for a north facing 10-in wall of R0=10 hr ft2 °F/Btu, which corresponds to thermal conductivity k=10 in x 1 ft/12 in /R0=0.33 Btu/(hr ft °F) or 0.57 W/(m K) in agreement with the thermal conductivity reported from another source. To determine the total R-value of a wall, scale R0 by the thickness of the wall in inches. The thermal resistance of adobe is also stated as an R-value for a 10-inch wall R0=4.1 hr ft2 °F/Btu. Another source provides the following properties: conductivity=0.30 Btu/(hr ft °F) or 0.52 W/(m K); specific heat capacity=0.24 Btu/(lb °F) or 1 kJ/(kg K) and density=106 lb/ft3 or 1700 kg/m3, giving heat capacity=25.4 Btu/(ft3 °F) or 1700 kJ/(m3 K). Using the average value of the thermal conductivity as k = 32 Btu/(hr ft °F) or 0.55 W/(m K), the thermal diffusivity is calculated to be 0.013 ft2/h or 3.3x10−7 m2/s.
+
+Uses
+
+Poured and puddled adobe walls
+
+Poured and puddled adobe (puddled clay, piled earth), today called cob, is made by placing soft adobe in layers, rather than by making individual dried bricks or using a form. "Puddle" is a general term for a clay or clay and sand-based material worked into a dense, plastic state. These are the oldest methods of building with adobe in the Americas until holes in the ground were used as forms, and later wooden forms used to make individual bricks were introduced by the Spanish.
+
+Adobe bricks
+
+Bricks made from adobe are usually made by pressing the mud mixture into an open timber frame. In North America, the brick is typically about  in size. The mixture is molded into the frame, which is removed after initial setting. After drying for a few hours, the bricks are turned on edge to finish drying. Slow drying in shade reduces cracking.
+
+The same mixture, without straw, is used to make mortar and often plaster on interior and exterior walls. Some cultures used lime-based cement for the plaster to protect against rain damage.
+
+Depending on the form into which the mixture is pressed, adobe can encompass nearly any shape or size, provided drying is even and the mixture includes reinforcement for larger bricks. Reinforcement can include manure, straw, cement, rebar, or wooden posts. Straw, cement, or manure added to a standard adobe mixture can produce a stronger, more crack-resistant brick. A test is done on the soil content first. To do so, a sample of the soil is mixed into a clear container with some water, creating an almost completely saturated liquid. The container is shaken vigorously for one minute. It is then allowed to settle for a day until the soil has settled into layers. Heavier particles settle out first, sand above, silt above that, and very fine clay and organic matter will stay in suspension for days. After the water has cleared, percentages of the various particles can be determined. Fifty to 60 percent sand and 35 to 40 percent clay will yield strong bricks. The Cooperative State Research, Education, and Extension Service at New Mexico State University recommends a mix of not more than  clay, not less than  sand, and never more than  silt.
+
+During the Great Depression, designer and builder Hugh W. Comstock used cheaper materials and made a specialized adobe brick called "Bitudobe." His first adobe house was built in 1936. In 1948, he published the book Post-Adobe; Simplified Adobe Construction Combining A Rugged Timber Frame And Modern Stabilized Adobe, which described his method of construction, including how to make "Bitudobe." In 1938, he served as an adviser to the architects Franklin & Kump Associates, who built the Carmel High School, which used his Post-adobe system.
+
+Adobe wall construction
+
+The ground supporting an adobe structure should be compressed, as the weight of adobe wall is significant and foundation settling may cause cracking of the wall. Footing depth is to be below the ground frost level. The footing and stem wall are commonly 24 and 14 inches thick, respectively.  Modern construction codes call for the use of reinforcing steel in the footing and stem wall. Adobe bricks are laid by course. Adobe walls usually never rise above two stories as they are load bearing and adobe has low structural strength. When creating window and door openings, a lintel is placed on top of the opening to support the bricks above. Atop the last courses of brick, bond beams made of heavy wood beams or modern reinforced concrete are laid to provide a horizontal bearing plate for the roof beams and to redistribute lateral earthquake loads to shear walls more able to carry the forces. To protect the interior and exterior adobe walls, finishes such as mud plaster, whitewash or stucco can be applied. These protect the adobe wall from water damage, but need to be reapplied periodically. Alternatively, the walls can be finished with other nontraditional plasters that provide longer protection. Bricks made with stabilized adobe generally do not need protection of plasters.
+
+Adobe roof
+The traditional adobe roof has been constructed using a mixture of soil/clay, water, sand and organic materials. The mixture was then formed and pressed into wood forms, producing rows of dried earth bricks that would then be laid across a support structure of wood and plastered into place with more adobe.
+
+Depending on the materials available, a roof may be assembled using wood or metal beams to create a framework to begin layering adobe bricks. Depending on the thickness of the adobe bricks, the framework has been preformed using a steel framing and a layering of a metal fencing or wiring over the framework to allow an even load as masses of adobe are spread across the metal fencing like cob and allowed to air dry accordingly. This method was demonstrated with an adobe blend heavily impregnated with cement to allow even drying and prevent cracking.
+
+The more traditional flat adobe roofs are functional only in dry climates that are not exposed to snow loads. The heaviest wooden beams, called vigas, lie atop the wall. Across the vigas lie smaller members called latillas and upon those brush is then laid. Finally, the adobe layer is applied.
+
+To construct a flat adobe roof, beams of wood were laid to span the building, the ends of which were attached to the tops of the walls. Once the vigas, latillas and brush are laid, adobe bricks are placed. An adobe roof is often laid with bricks slightly larger in width to ensure a greater expanse is covered when placing the bricks onto the roof. Following each individual brick should be a layer of adobe mortar, recommended to be at least  thick to make certain there is ample strength between the brick's edges and also to provide a relative moisture barrier during rain.
+
+Roof design evolved around 1850 in the American Southwest. Three inches of adobe mud was applied on top of the latillas, then 18 inches of dry adobe dirt applied to the roof. The dirt was contoured into a low slope to a downspout aka a 'canal'. When moisture was applied to the roof the clay particles expanded to create a waterproof membrane. Once a year it was necessary to pull the weeds from the roof and re-slope the dirt as needed.
+
+Depending on the materials, adobe roofs can be inherently fire-proof. The construction of a chimney can greatly influence the construction of the roof supports, creating an extra need for care in choosing the materials. The builders can make an adobe chimney by stacking simple adobe bricks in a similar fashion as the surrounding walls.
+
+In 1927, the Uniform Building Code (UBC) was adopted in the United States. Local ordinances, referencing the UBC added requirements to building with adobe. These included: restriction of building height of adobe structures to 1-story, requirements for adobe mix (compressive and shear strength) and new requirements which stated that every building shall be designed to withstand seismic activity, specifically lateral forces. By the 1980s however, seismic related changes in the California Building Code effectively ended solid wall adobe construction in California; however Post-and-Beam adobe and veneers are still being used.
+
+Adobe around the world
+The largest structure ever made from adobe is the Arg-é Bam built by the Achaemenid Empire. Other large adobe structures are the Huaca del Sol in Peru, with 100 million signed bricks and the ciudellas of Chan Chan and Tambo Colorado, both in Peru.
+
+See also
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  used adobe walls
+ 
+  (waterproofing plaster)
+ 
+ 
+ 
+ 
+  (also known as Ctesiphon Arch) in Iraq is the largest mud brick arch in the world, built beginning in 540 AD
+
+References
+
+External links
+
+Soil-based building materials
+Masonry
+Adobe buildings and structures
+Appropriate technology
+Vernacular architecture
+Sustainable building
+Buildings and structures by construction material
+Western (genre) staples and terminology
+
+कविता एक स्त्री नाम है। जिसका अर्थ है काव्य। सुप्रसिद्ध कोरोजयी कवि गोलेन्द्र पटेल ने कविता के संदर्भ में कहा है कि "कविता आत्मा की औषधि है।"
+
+उल्लेखनीय लोग 
+
+ कविता के. बड़जात्या (जन्म 12 नवंबर, 1977), भारतीय निर्माता। 
+ कविता दासवानी (जन्म 1971), अमेरिकी-भारतीय लेखिका। 
+ कविता कौशिक (जन्म 15 फरवरी, 1981), भारतीय अभिनेत्री। 
+ कविता कृष्णमूर्ति (जन्म 25 जनवरी, 1958), भारतीय पार्श्व गायिका। 
+ कविता राउत (जन्म 5 मई, 1985), भारतीय लंबी दूरी की धावक। 
+ कविता रॉय (जन्म 10 अप्रैल, 1980), भारतीय क्रिकेटर। 
+ कविता सेठ (जन्म 14 सितंबर, 1970), भारतीय गायिका। 
+हिंदू नाम
+
+An  ( ; Medieval Latin for "he has declared under oath") is a written statement voluntarily made by an affiant or deponent under an oath or affirmation which is administered by a person who is authorized to do so by law. Such a statement is witnessed as to the authenticity of the affiant's signature by a taker of oaths, such as a notary public or commissioner of oaths. An affidavit is a type of verified statement or showing, or in other words, it contains a verification, which means that it is made under oath on penalty of perjury, and this serves as evidence for its veracity and is required in court proceedings.
+
+Definition
+
+An affidavit is typically defined as a written declaration or statement that is sworn or affirmed before a person who has authority to administer an oath. There is no general defined form for an affidavit, although for some proceedings an affidavit must satisfy legal or statutory requirements in order to be considered. An affidavit may include,
+ a commencement which identifies the affiant;
+ an attestation clause, usually a jurat, at the end certifying that the affiant made the statement under oath on the specified date;
+ signatures of the affiant and person who administered the oath.
+In some cases, an introductory clause, called a preamble, is added attesting that the affiant personally appeared before the authenticating authority. An affidavit may also recite that the statement it records was made under penalty of perjury.
+
+An affidavit that is prepared for use within the context of litigation may also include a caption that identifies the venue and parties to the relevant judicial proceedings.
+
+Worldwide
+
+Australia
+On 2 March 2016, the High Court of Australia held that the ACT Uniform Evidence Legislation is neutral in the way sworn evidence and unsworn evidence is treated as being of equal weight.
+
+United Kingdom
+The term "affidavit" is used in the UK. According the UK government website, “The affidavit can be sworn or affirmed by a solicitor, notary or commissioner for oaths (for a charge) or by an authorised member of court staff.”
+
+India
+In Indian law, although an affidavit may be taken as proof of the facts stated therein, the courts have no jurisdiction to admit evidence by way of affidavit. Affidavit is not treated as "evidence" within the meaning of Section 3 of the Evidence Act. However, it was held by the Supreme Court that an affidavit can be used as evidence only if the court so orders for sufficient reasons, namely, the right of the opposite party to have the deponent produced for cross-examination. Therefore, an affidavit cannot ordinarily be used as evidence in absence of a specific order of the court.
+
+Sri Lanka
+In Sri Lanka, under the Oaths Ordinance, with the exception of a court-martial, a person may submit an affidavit signed in the presence of a commissioner for oaths or a justice of the peace.
+
+Ireland
+Affidavits are made in a similar way as to England and Wales, although "make oath" is sometimes omitted. An affirmed affidavit may be substituted for an sworn affidavit in most cases for those opposed to swearing oaths. The person making the affidavit is known as the deponent and signs the affidavit. The affidavit concludes in the standard format "sworn/affirmed (declared) before me, [name of commissioner for oaths/solicitor], a commissioner for oaths (solicitor), on the [date] at [location] in the county/city of [county/city], and I know the deponent", and it is signed and stamped by the commissioner for oaths. It is important that the Commissioner states his/her name clearly, sometimes documents are rejected when the name cannot be ascertained.
+
+In August 2020, a new method of filing affidavits came into force.  Under Section 21 of the Civil Law and Criminal Law (Miscellaneous Provisions) Act 2020 witnesses are no longer required to swear before God or make an affirmation when filing an affidavit. Instead, witnesses will make a non-religious “statement of truth” and, if it is breached, will be liable for up to one year in prison if convicted summarily or, upon conviction on indictment, to a maximum fine of €250,000 or imprisonment for a term not exceeding 5 years, or both.
+
+This is designed to replace affidavits and statutory declarations in situations where the electronic means of lodgement or filing of documents with the Court provided for in Section 20 is utilised. As of January 2022, it has yet to be adopted widely, and it is expected it will not be used for some time by lay litigants who will still lodge papers in person.
+
+United States
+
+In American jurisprudence, under the rules for hearsay, admission of an unsupported affidavit as evidence is unusual (especially if the affiant is not available for cross-examination) with regard to material facts which may be dispositive of the matter at bar. Affidavits from persons who are dead or otherwise incapacitated, or who cannot be located or made to appear, may be accepted by the court, but usually only in the presence of corroborating evidence. An affidavit which reflected a better grasp of the facts close in time to the actual events may be used to refresh a witness's recollection. Materials used to refresh recollection are admissible as evidence. If the affiant is a party in the case, the affiant's opponent may be successful in having the affidavit admitted as evidence, as statements by a party-opponent are admissible through an exception to the hearsay rule.
+
+Affidavits are typically included in the response to interrogatories. Requests for admissions under Federal Rule of Civil Procedure 36, however, are not required to be sworn.
+
+When a person signs an affidavit, that person is eligible to take the stand at a trial or evidentiary hearing. One party may wish to summon the affiant to verify the contents of the affidavit, while the other party may want to cross-examine the affiant about the affidavit.
+
+Some types of motions will not be accepted by the court unless accompanied by an independent sworn statement or other evidence in support of the need for the motion. In such a case, a court will accept an affidavit from the filing attorney in support of the motion, as certain assumptions are made, to wit: The affidavit in place of sworn testimony promotes judicial economy. The lawyer is an officer of the court and knows that a false swearing by them, if found out, could be grounds for severe penalty up to and including disbarment. The lawyer if called upon would be able to present independent and more detailed evidence to prove the facts set forth in his affidavit.
+
+Affidavits should not be confused with unsworn declarations under penalty of perjury.  In federal courts and about 20 states as of 2006, unsworn declarations under penalty of perjury are authorized by statute as acceptable in lieu of affidavits.  The key differences are that an unsworn declaration does not bear the jurat of a notary public and the declarant is not required to swear an oath or affirmation.  Rather, the signature of the declarant under a carefully worded phrase binding them to the truth of their statements "under penalty of perjury" is deemed as a matter of law to be sufficiently solemn to remind the declarant of their duty to tell the truth, the whole truth, and nothing but the truth.  The point of such affidavit substitution statutes is that unsworn declarations can be prepared and executed far more quickly and economically than affidavits, in that the witness need not meet personally with a notary public for the notarization process. 
+
+The acceptance of an affidavit by one society does not confirm its acceptance as a legal document in other jurisdictions. Equally, the acceptance that a lawyer is an officer of the court (for swearing the affidavit) is not a given. This matter is addressed by the use of the apostille, a means of certifying the legalization of a document for international use under the terms of the 1961 Hague Convention Abolishing the Requirement of Legalization for Foreign Public Documents. Documents which have been notarized by a notary public, and certain other documents, and then certified with a conformant apostille, are accepted for legal use in all the nations that have signed the Hague Convention. Thus most affidavits now require to be apostilled if used for cross border issues.
+
+See also
+ Declaration (law)
+ Deposition (law)
+ Fishman Affidavit, a well-known example of an affidavit
+ Performativity
+ Statutory declaration
+ Sworn declaration
+
+References 
+
+Evidence law
+Legal documents
+Notary
+
+२००३ 
+जनवरी | 
+फरवरी | 
+मार्च |
+अप्रैल | 
+मई | 
+जून | 
+जुलाई | 
+ अगस्त  | 
+सितम्बर | 
+अक्टूबर | 
+नवम्बर | 
+दिसम्बर 
+
+शुक्रवार, 08 अगस्त 2003
+
+हमास का बदले का संकल्प --
+फ़लस्तीन के चरमपंथी संगठन हमास की सशस्त्र शाखा ने अपने सदस्यों से अपील की है कि वे इसराइली सेना के हमले में मारे गए दो नेताओं की मौत का बदला लें.
+
+अभिनेता उमर शरीफ़ को सज़ा --
+जाने माने अभिनेता उमर शरीफ़ को फ़्राँस की एक अदालत ने मारपीट के आरोप में सज़ा सुनाई है। उन्हें एक महीने की सस्पेंडेड जेल की सज़ा के साथ-साथ ग्यारह सौ पाउंड का जुर्माना भी लगाया गया है।
+
+'अंतरराष्ट्रीय सहयोग ज़रूरी' --
+इंडोनेशिया की राष्ट्रपति मेगावती सुकर्णोपुत्री ने आतंकवाद के विरुद्ध दुनियाभर का एक गठबंधन बनाने की माँग उठाई है। राजधानी जकार्ता के एक होटल में मंगलवार को हुए बम धमाके के बाद उन्होंने पहली टिप्पणी में ये माँग उठाई.
+
+अमरीकी रणनीति बदलेगी? --
+अमरीका इराक़ में अपनी सैन्य रणनीति में बदलाव करने की योजना बना रहा है। अब अमरीका इराक़ में स्थानीय लोगों को अधिक संख्या में सामने लाना चाहता है और बड़े पैमाने पर होने वाली कार्रवाइयाँ कम करना चाहता है।
+
+नए परमाणु हथियारों पर चर्चा --
+अमरीकी रक्षा मुख्यालय पेंटागन ने माना है कि वह सैनिक अधिकारियों और वैज्ञानिकों की एक उच्च स्तरीय बैठक कर रहा है। इसमें अगले चरण के अत्याधुनिक परमाणु हथियारों पर विचार होने की संभावना है।
+
+अगस्त
+2003
+
+चित्रकला एक द्विविमीय (two-dimensional) कला है। भारत में चित्रकला का एक प्राचीन स्रोत विष्णुधर्मोत्तर पुराण है।
+
+इतिहास 
+चित्रकला का प्रचार चीन, मिस्र, भारत आदि देशों में अत्यंत प्राचीन काल से है। मिस्र से ही चित्रकला यूनान में गई, जहाँ उसने बहुत उन्नति की। ईसा से १४०० वर्ष पहले मिस्र देश में चित्रों का अच्छा प्रचार था। लंदन के ब्रिटिश संग्रहालय में ३००० वर्ष तक के पुराने मिस्री चित्र हैं। भारतवर्ष में भी अत्यंत प्राचीन काल से यह विधा प्रचलित थी, इसके अनेक प्रमाण मिलते हैं। रामायण में चित्रों, चित्रकारों और चित्रशालाओं का वर्णन बराबर आया है। विश्वकर्मीय शिल्पशास्त्र में लिखा है कि स्थापक, तक्षक, शिल्पी आदि में से शिल्पी को ही चित्र बनाना चाहिए। प्राकृतिक दृश्यों को अंकित करने में प्राचीन भारतीय चित्रकार कितने निपुण होते थे, इसका कुछ आभास भवभूति के उत्तररामचरित के देखने से मिलता है, जिसमें अपने सामने लाए हुए वनवास के चित्रों को देख सीता चकित हो जाती हैं। यद्यपि आजकल कोई ग्रंथ चित्रकला पर नहीं मिलता है, तथापि प्राचीन काल में ऐसे ग्रंथ अवश्य थे। कश्मीर के राजा जयादित्य की सभा के कवि दोमोदर गुप्त आज से ११०० वर्ष पहले अपने कुट्टनीमत नामक ग्रंथ में चित्रविद्या के 'चित्रसूत्र' नामक एक ग्रंथ का अल्लेख किया है। अजंता गुफा के चित्रों में प्राचीन भारतवासियों की चित्रनिपुणता देख चकित रह जाना पड़ता है। बड़े बड़े विज्ञ युरोपियनों ने इन चित्रों की प्रशंसा की है। उन गुफाओं में चित्रों का बनाना ईसा से दो सौ वर्ष पूर्व से आरंभ हुआ ता औरक आठवीं शताब्दी तक कुछ न कुछ गुफाएँ नई खुदती रहीं। अतः डेढ़ दो हजार वर्ष के प्रत्यक्ष प्रमाण तो ये चित्र अवश्य हैं।
+
+परिचय 
+चित्रविद्या सीखने के लिये पहले प्रत्येक प्रकार की सीधी टेढ़ी, वक्र आदि रेखाएँ खींचने का अभ्यास करना चाहिए। इसके उपरांत रेखाओं के ही द्वारा वस्तुओं के स्थूल ढाँचे बनाने चाहिए। इस विद्या में दूरी आदि के सिद्धांत का पूरा अनुशीलन किए बिना निपूणता नहीं प्राप्त हो सकती। दृष्टि के समानांतर या ऊपर नीचे के विस्तार का अंकन तो सहज है, पर आँखों के ठीक सामने दूर तक गया हुआ विस्तार अंकित करना कठिन विषय है। इस प्रकार की दूरी का विस्तार प्रदर्शित करने की क्रिया को 'पर्सपेक्टिव' (Perspective) कहते हैं। किसी नगर की दूर तक सामने गई हुई सड़क, सामने को बही हुई नदी आदि के दृश्य बिना इसके सिद्धांतों को जाने नहीं दिखाए जा सकते। किस प्रकार निकट के पदार्थ बड़े और साफ दिखाई पड़ते हैं और दूर के पदार्थ क्रमशः छोटे और धुँधले होते जाते हैं, ये सब बातें अंकित करनी पड़ती हैं। उदाहरण के लिये दूर पर रखा हुआ एक चौखूँटा संदूक लीजिए। मान लीजिए कि आप उसे एक ऐसे किनारे से देख रहे हैं जहाँ से उसके दो पार्श्व या तीन कोण दिखाई पड़ते हैं। अब चित्र बनाने के निमित्त हम एक पेंसिल आँखों के समानांतर लेकर एक आँख दबाकर देखेंगे तो संदूक की सबके निकटस्थ खड़ी कोणरेखा (ऊँचाई) सबसे बड़ी दिखाई देगी; जो पार्श्व अधिक सामने रहेगा, उसके दूसरे ओर की कोणरेखा उससे छोटी और जो पार्श्व कम दिखाई देगा, उसके दूसरे ओर की कोणरेखा सबसे छोटी दिखाई पड़ेगी। अर्थात् निकटस्थ कोण रेखा से लगा हुआ उस पार्श्व का कोण जो कम दिखाई देता है, अधिक दिखाई पड़नेवाले पार्श्व के कोण से छोटा होगा। दूसरा सिद्धांत आलोक और छाया का है जिसके बिना सजीवता नहीं आ सकती। पदार्थ का जो अंश निकट और सामने रहेगा वह खुलता (आलोकित) और स्पष्ट होगा; और जो दूर या बगल में पड़ेगा, वह स्पष्ट ओर कालिमा लिए होगा। पदार्थोंका उभार और गहराई आदि भी इसी आलोक और छाया के नियमानुसार दिकाई जाती है। जो अंश उठा या उभरा होगा, वह अधिक खुलता होगा और जो धँसा या गहरा होगा वह कुछ स्याही लिए होगा। इन्हीं सिद्धांतों को न जानने के कारण बाजारू चित्रकार शीशे आदि पर जो चित्र बनाते हैं वे खेलवाड़ से जान पड़ते हैं। चित्रों में रंग एक प्रकार की कूँची से भरा जाता है जिसे चित्रकार कलम कहते हैं। पहले यहाँ गिलहरी की पूँछ के बालों की कलम बनती थी। अब विलायती ब्रुश काम में आते हैं।
+
+इन्हें भी देखें 
+ भारतीय चित्रकला
+ ललित कला
+ रामायण और चित्रकला
+
+बाहरी कड़ियाँ 
+ भारतीय चित्रकला (हिन्दी ब्लाग)
+ चित्रकला विभाग, एमएमएच कॉलेज गाजियाबाद
+ भारतीय चित्रकला का संक्षिप्त इतिहास (गूगल पुस्तक ; लेखक - वाचस्पति गैरोला)
+ Italian Paintings
+ जापानी रंगचित्र कला 'हाइगा'
+
+चित्रकला
+दृश्य कलाएँ
+
+Asterales () is an order of dicotyledonous flowering plants that includes the large family Asteraceae (or Compositae) known for composite flowers made of florets, and ten families related to the Asteraceae. While asterids in general are characterized by fused petals, composite flowers consisting of many florets create the false appearance of separate petals (as found in the rosids).
+
+The order is cosmopolitan (plants found throughout most of the world including desert and frigid zones), and includes mostly herbaceous species, although a small number of trees (such as the Lobelia deckenii, the giant lobelia, and Dendrosenecio, giant groundsels) and shrubs are also present.
+
+Asterales are organisms that seem to have evolved from one common ancestor. Asterales share characteristics on morphological and biochemical levels. Synapomorphies (a character that is shared by two or more groups through evolutionary development) include the presence in the plants of oligosaccharide inulin, a nutrient storage molecule used instead of starch; and unique stamen morphology. The stamens are usually found around the style, either aggregated densely or fused into a tube, probably an adaptation in association with the plunger (brush; or secondary) pollination that is common among the families of the order, wherein pollen is collected and stored on the length of the pistil.
+
+Taxonomy 
+The name and order Asterales is botanically venerable, dating back to at least 1926 in the Hutchinson system of plant taxonomy when it contained only five families, of which only two are retained in the APG III classification. Under the Cronquist system of taxonomic classification of flowering plants, Asteraceae was the only family in the group, but newer systems (such as APG II and APG III) have expanded it to 11. In the classification system of Rolf Dahlgren the Asterales were in the superorder Asteriflorae (also called Asteranae).
+
+The order Asterales currently includes 11 families, the largest of which are the Asteraceae, with about 25,000 species, and the Campanulaceae (bellflowers), with about 2,000 species. The remaining families count together for less than 1500 species. The two large families are cosmopolitan, with many of their species found in the Northern Hemisphere, and the smaller families are usually confined to Australia and the adjacent areas, or sometimes South America.
+
+Only the Asteraceae have composite flower heads; the other families do not, but share other characteristics such as storage of inulin that define the 11 families as more closely related to each other than to other plant families or orders such as the rosids.
+
+The phylogenetic tree according to APG III for the Campanulid clade is as below.
+
+Phylogeny 
+Although most extant species of Asteraceae are herbaceous, the examination of the basal members in the family suggests that the common ancestor of the family was an arborescent plant, a tree or shrub, perhaps adapted to dry conditions, radiating from South America. Less can be said about the Asterales themselves with certainty, although since several families in Asterales contain trees, the ancestral member is most likely to have been a tree or shrub.
+
+Because all clades are represented in the Southern Hemisphere but many not in the Northern Hemisphere, it is natural to conjecture that there is a common southern origin to them. Asterales are angiosperms, flowering plants that appeared about 140 million years ago. The Asterales order probably originated in the Cretaceous (145 – 66 Mya) on the supercontinent Gondwana which broke up from 184 – 80 Mya, forming the area that is now Australia, South America, Africa, India and Antarctica.
+
+Asterales contain about 14% of eudicot diversity. From an analysis of relationships and diversities within the Asterales and with their superorders, estimates of the age of the beginning of the Asterales have been made, which range from 116 Mya to 82Mya. However few fossils have been found, of the Menyanthaceae-Asteraceae clade in the Oligocene, about 29 Mya.
+
+Fossil evidence of the Asterales is rare and belongs to rather recent epochs, so the precise estimation of the order's age is quite difficult. An Oligocene (34 – 23 Mya) pollen is known for Asteraceae and Goodeniaceae, and seeds from Oligocene and Miocene (23 – 5.3 Mya) are known for Menyanthaceae and Campanulaceae respectively.
+
+Biogeography
+The core Asterales are Stylidiaceae (six genera), APA clade (Alseuosmiaceae, Phellinaceae and Argophyllaceae, together seven genera), MGCA clade (Menyanthaceae, Goodeniaceae, Calyceraceae, in total twenty genera), and Asteraceae (about sixteen hundred genera). Other Asterales are Rousseaceae (four genera), Campanulaceae (eighty-four genera) and Pentaphragmataceae (one genus).
+
+All Asterales families are represented in the Southern Hemisphere; however, Asteraceae and Campanulaceae are cosmopolitan and Menyanthaceae nearly so.
+
+Uses
+The Asterales, by dint of being a super-set of the family Asteraceae, include some species grown for food, including the sunflower (Helianthus annuus), lettuce (Lactuca sativa) and chicory (Cichorium). Many are also used as spices and traditional medicines.
+
+Asterales are common plants and have many known uses. For example, pyrethrum (derived from Old World members of the genus Chrysanthemum) is a natural insecticide with minimal environmental impact. Wormwood, derived from a genus that includes the sagebrush, is used as a source of flavoring for absinthe, a bitter classical liquor of European origin.
+
+References
+
+Further reading 
+ W. S. Judd, C. S. Campbell, E. A. Kellogg, P. F. Stevens, M. J. Donoghue (2002). Plant Systematics: A Phylogenetic Approach, 2nd edition. pp. 476–486 (Asterales). Sinauer Associates, Sunderland, Massachusetts. .
+
+External links
+
+ 
+Angiosperm orders
+
+किसी भाषा के वाचिक और लिखित (शास्त्रसमूह) को साहित्य कह सकते हैं। दुनिया में सबसे पुराना वाचिक साहित्य हमें आदिवासी भाषाओं में मिलता है। इस दृष्टि से आदिवासी साहित्य सभी साहित्य का मूल स्रोत है। साहित्य - स+हित+य के योग से बना है। सुप्रसिद्ध साहित्यकार गोलेन्द्र पटेल ने साहित्य के संदर्भ में कहा है कि "आदिकाल में दर्शन और कविता के बीच द्वंद्व था, आज साइंस और साहित्य के बीच द्वंद्व है लेकिन साइंस तन को स्वस्थ करता है और साहित्य मन को" 
+
+कवि-   नवीन पांडेय
+
+प्रयागराज
+
+भारतीय साहित्य 
+भारतीय वाङ्मय को काल की दृष्टि से निम्नलिखित भागों में विभक्त किया गया है -
+
+भारत का संस्कृत साहित्य ऋग्वेद से आरम्भ होता है। व्यास, वाल्मीकि जैसे पौराणिक ऋषियों ने महाभारत एवं रामायण जैसे महाकाव्यों की रचना की। भास, कालिदास एवं अन्य कवियों ने संस्कृत में नाटक लिखे।
+
+भक्ति साहित्य में अवधी में गोस्वामी तुलसीदास, ब्रज भाषा में सूरदास तथा रैदास, मारवाड़ी में मीराबाई, खड़ीबोली में  कबीर, रसखान, मैथिली में विद्यापति आदि प्रमुख हैं। अवधी के प्रमुख कवियों में रमई काका सुप्रसिद्ध कवि हैं।
+
+हिन्दी साहित्य में कथा, कहानी और उपन्यास के लेखन में प्रेमचन्द का महान योगदान है।
+
+ग्रीक साहित्य में होमर के इलियड और ऑडसी विश्वप्रसिद्ध हैं। अंग्रेज़ी साहित्य में शेक्स्पियर का नाम कौन नहीं जानता।
+
+इन्हें भी देखें 
+ हिन्दी साहित्य
+ आदिवासी साहित्य
+ भारतीय साहित्य
+ पाश्चात्य साहित्य
+ साहित्य का इतिहास
+
+बाहरी कड़ियाँ 
+ साहित्यिक निबन्ध (गूगल पुस्तक ; लेखक - गणपतिचन्द्र गुप्त)
+ साहित्य सिद्धान्त (गूगल पुस्तक)
+ साहित्यानुशीलन (गूगल पुस्तक ; लेखक - डॉ दयाशंकर शुक्ल)
+ समकालीन हिंदी साहित्य की जाल-पत्रिका 'अभिव्यक्ति'
+ साहित्य, संस्कृति और भाषा अंतराष्ट्रीय मंच सृजनगाथा
+ हिन्दी काव्य
+ हिन्दी साहित्य प्रश्नोत्तरी (गूगल पुस्तक ; लेखिका - विभा देवसरे)
+ Google's category on literature in Hindi
+ Wikisource
+ Indan English Literature 
+ भारतीय साहित्य का जाल-पुस्तकालय एवं लेखकों और कवियों के बारे में जानकारी के लिए संपूर्ण स्रोत 'पुस्तक'
+ साहित्य में मूल्यबोध - डॉ॰ हरेकृष्ण मेहेर
+
+साहित्य
+मई २०१३ के लेख जिनमें स्रोत नहीं हैं
+
+शहर बड़ी और स्थायी मानव बस्ती होती है। शहर में आम तौर पर आवास, परिवहन, स्वच्छता, भूमि उपयोग और संचार के लिए निर्मित किया गया एक व्यापक सिस्टम होता हैं। ऐतिहासिक रूप से शहरवासियों का समग्र रूप से मानवता में छोटा सा अनुपात रहा है। लेकिन आज दो शताब्दियों से अभूतपूर्व और तेजी से शहरीकरण के कारण, कहा जाता है कि आज आधी आबादी शहरों में रह रही हैं। वर्तमान में शहर आमतौर पर बड़े महानगरीय क्षेत्र और शहरी क्षेत्र के केंद्र होते हैं। सबसे आबादी वाला उचित शहर शंघाई है।
+
+एक शहर अन्य मानव बस्तियों से अपने अपेक्षाकृत बड़े आकार के कारण भिन्न होता है। शहर अकेले आकार से ही अलग नहीं है, बल्कि यह एक बड़े राजनीतिक संदर्भ में भूमिका निभाता है। शहर अपने आसपास के क्षेत्रों के लिए प्रशासनिक, वाणिज्यिक, धार्मिक और सांस्कृतिक केंद्रों के रूप में सेवा देता है। एक विशिष्ट शहर में पेशेवर प्रशासक, नियम-कायदे होते हैं और सरकार के कर्मचारियों को खिलाने के लिए कराधान भी। शहर शब्द फारसी से हिन्दी भाषा में आया है। पुराना संस्कृत शब्द नगर भी उपयोग किया जाता विशेषकर सरकारी कार्य में जैसे कि नगर निगम।
+
+यह भी देखिए 
+ भारत के शहर
+
+संदर्भ
+
+सभ्यता
+देशीय उपविभागों के प्रकार
+
+भारतीय शास्त्रीय संगीत या मार्ग, भारतीय संगीत का अभिन्न अंग है। शास्त्रीय संगीत को ही ‘क्लासिकल म्यूजिक भी कहते हैं। शास्त्रीय गायन सुर-प्रधान होता है, शब्द-प्रधान नहीं। इसमें महत्व सुर का होता है (उसके चढ़ाव-उतार का, शब्द और अर्थ का नहीं)। इसको जहाँ शास्त्रीय संगीत-ध्वनि विषयक साधना के अभ्यस्त कान ही समझ सकते हैं, अनभ्यस्त कान भी शब्दों का अर्थ जानने मात्र से देशी गानों या लोकगीत का सुख ले सकते हैं। इससे अनेक लोग स्वाभाविक ही ऊब भी जाते हैं पर इसके ऊबने का कारण उस संगीतज्ञ की कमजोरी नहीं, लोगों में जानकारी की कमी है।
+
+इतिहास 
+भारतीय शास्त्रीय संगीत की परम्परा भरत मुनि के नाट्यशास्त्र और उससे पहले सामवेद के गायन तक जाती है। भरत मुनि द्वारा रचित भरत नाट्य शास्त्र, भारतीय संगीत के इतिहास का प्रथम लिखित प्रमाण माना जाता है। इसकी रचना के समय के बारे में कई मतभेद हैं। आज के भारतीय शास्त्रीय संगीत के कई पहलुओं का उल्लेख इस प्राचीन ग्रंथ में मिलता है। भरत मुनि के नाटयशास्त्र के बाद मतंग मुनि की बृहद्देशी और शारंगदेव रचित संगीत रत्नाकर, ऐतिहासिक दृष्टि से सबसे महत्वपूर्ण ग्रंथ माना जाता है। बारहवीं सदी के पूर्वार्द्ध में लिखे सात अध्यायों वाले इस ग्रंथ में संगीत व नृत्य का विस्तार से वर्णन है।
+
+संगीत रत्नाकर में कई तालों का उल्लेख है व इस ग्रंथ से पता चलता है कि प्राचीन भारतीय पारंपरिक संगीत में बदलाव आने शुरू हो चुके थे व संगीत पहले से उदार होने लगा था मगर मूल तत्व एक ही रहे। 11वीं और 12वीं शताब्दी में मुस्लिम सभ्यता के प्रसार ने उत्तर भारतीय संगीत की दिशा को नया आयाम दिया। राजदरबार संगीत के प्रमुख संरक्षक बने और जहां अनेक शासकों ने प्राचीन भारतीय संगीत की समृद्ध परंपरा को प्रोत्साहन दिया वहीं अपनी आवश्यकता और रुचि के अनुसार उन्होंने इसमें अनेक परिवर्तन भी किए। इसी समय कुछ नई शैलियाँ भी प्रचलन में आईं जैसे खयाल, गज़ल आदि और भारतीय संगीत का कई नये वाद्यों से भी परिचय हुआ जैसे सरोद, सितार इत्यादि। 
+
+भारतीय संगीत के आधुनिक मनीषी स्थापित कर चुके हैं कि वैदिक काल से आरम्भ हुई भारतीय वाद्यों की यात्रा क्रमश: एक के बाद दूसरी विशेषता से इन यंत्रों को सँवारती गयी। एक-तंत्री वीणा ही त्रितंत्री बनी और सारिका युक्त होकर मध्य-काल के पूर्व किन्नरी वीणा के नाम से प्रसिद्ध हुई। मध्यकाल में यह यंत्र जंत्र कहलाने लगा जो बंगाल के कारीगरों द्वारा आज भी इस नाम से पुकारा जाता है। भारत में पहुँचे मुस्लिम संगीतकार तीन तार वाली वीणा को सह (तीन) + तार = सहतार या सितार कहने लगे। इसी प्रकार सप्त तंत्री अथवा चित्रा-वीणा, सरोद कहलाने लगी। उत्तर भारत में मुगल राज्य ज्यादा फैला हुआ था जिस कारण उत्तर भारतीय संगीत पर मुसलिम संस्कृति व इस्लाम का प्रभाव ज्यादा महसूस किया गया। जबकि दक्षिण भारत में प्रचलित संगीत किसी प्रकार के मुस्लिम प्रभाव से अछूता रहा।
+
+बाद में सूफी आन्दोलन ने भी भारतीय संगीत पर अपना प्रभाव जमाया। आगे चलकर देश के विभिन्न हिस्सों में कई नई पद्धतियों व घरानों का जन्म हुआ। ब्रिटिश शासनकाल के दौरान कई नये वाद्य प्रचलन में आए पाश्चात्य संगीत से भी भारतीय संगीत का परिचय हुआ। आम जनता में लोकप्रिय आज का वाद्य हारमोनियम, उसी समय प्रचलन में आया। इस तरह भारतीय संगीत के उत्थान व उसमें परिवर्तन लाने में हर युग का अपना महत्वपूर्ण योगदान रहा।
+
+भारतीय वाद्य यंत्र
+
+आमतौर पर हिन्दुस्तानी संगीत में इस्तेमाल किए गए उपकरणों में सितार, सरोद, सुरबहार, ईसराज, वीणा, तनपुरा, बन्सुरी, शहनाई, सारंगी, वायलिन, संतूर, पखवज और तबला शामिल हैं। आमतौर पर कर्नाटिक संगीत में इस्तेमाल किए जाने वाले उपकरणों में वीना, वीनू, गोत्वादम, हार्मोनियम, मृदंगम, कंजिर, घमत, नादाश्वरम और वायलिन शामिल हैं।
+
+भारतीय शास्त्रीय संगीत पद्धतियां 
+
+भारतीय शास्त्रीय संगीत की दो प्रमुख पद्धतियां हैं- हिन्दुस्तानी संगीत और कर्नाटक संगीत।
+
+हिन्दुस्तानी संगीत 
+
+यह शास्त्रीय संगीत, उत्तर भारत में प्रचलित हुआ। 
+
+ हिन्दुस्तानी संगीत के प्रमुख रागों की सूची
+ यमन
+ भूपाली
+ बसंत
+ बागेश्री
+ मुल्तानी
+ बसंत
+ बहार
+ हिंडोल
+ काफ़ी
+
+कर्नाटक संगीत 
+यह दक्षिण भारत में प्रचलित हुआ। हिन्दुस्तानी संगीत मुगल बादशाहों की छत्रछाया में विकसित हुआ और कर्नाटक संगीत दक्षिण के मन्दिरों में। इसी कारण दक्षिण भारतीय कृतियों में भक्ति रस अधिक मिलता है और हिन्दुस्तानी संगीत में शृंगार रस।
+
+कर्नाटक संगीत के प्रमुख रागों की सूची
+राग हंसध्वनि
+
+चित्रवीथिका
+
+सन्दर्भ
+frcrvnutctv। ytcxrx। टीसीटीटीआर टीसीटीटीसीटी टीसीटीटीसी यूफुफ x c ट टीडीटीडी
+
+इन्हें भी देखें
+यूरोपीय शास्त्रीय संगीत
+
+बाहरी कड़ियाँ 
+ शास्त्रीय संगीत (मानोशी चैटर्जी)
+ शास्‍त्रीय संगीत
+ हिन्दुस्तानी राग संगीत 
+ panchamkauns - भारतीय शास्त्रीय संगीत को समर्पित स्विडी नागरिक
+
+संगीत
+भारतीय शास्त्रीय संगीत
+संगीत शैलियाँ
+हिन्दी सम्पादनोत्सव के अंतर्गत बनाए गए लेख
+
+फ़ारसी (), एक भाषा है जो ईरान, ताजिकिस्तान, अफ़गानिस्तान और उज़बेकिस्तान में बोली जाती है। यह ईरान, अफ़ग़ानिस्तान, ताजिकिस्तान की राजभाषा है और इसे ७.५ करोड़ लोग बोलते हैं। भाषाई परिवार के लिहाज़ से यह हिन्द यूरोपीय परिवार की हिन्द ईरानी (इंडो ईरानियन) शाखा की ईरानी उपशाखा का सदस्य है और हिन्दी की तरह इसमें क्रिया वाक्य के अंत में आती है। फ़ारसी संस्कृत से क़ाफ़ी मिलती-जुलती है और उर्दू (और हिन्दी) में इसके कई शब्द प्रयुक्त होते हैं। ये अरबी-फ़ारसी लिपि में लिखी जाती है। अंग्रेज़ों के आगमन से पहले भारतीय उपमहाद्वीप में फ़ारसी भाषा का प्रयोग दरबारी कामों तथा लेखन की भाषा के रूप में होता है। दरबार में प्रयुक्त होने के कारण ही अफ़गानिस्तान में इस दरी कहा जाता है।
+
+वर्गीकरण 
+इसे हिन्द-यूरोपीय भाषा परिवार की हिन्द-ईरानी शाखा की ईरानी भाषाओं की उपशाखा के पश्चिमी विभाग में वर्गीकृत किया जाता है। हालाँकि भारतीय उपमहाद्वीप में फ़ारसी को ग़लती से अरबी भाषा के समीप समझा जाता है, भाषावैज्ञानिक दृष्टि से यह अरबी से बहुत भिन्न और संस्कृत के बहुत समीप है। संस्कृत और फ़ारसी में कई हज़ारों मिलते-जुलते सजातीय शब्द मिलते हैं जो दोनों भाषाओँ की सांझी धरोहर हैं, जैसे की सप्ताह/हफ़्ता, नर/नर (पुरुष), दूर/दूर, हस्त/दस्त (हाथ), शत/सद (सौ), आप/आब (पानी), हर/ज़र (फ़ारसी में पीला-सुनहरा, संस्कृत में पीला-हरा), मय/मद/मधु (शराब/शहद), अस्ति/अस्त (है), रोचन/रोशन (चमकीला), एक/येक, कपि/कपि (वानर), दन्त/दन्द (दाँत), मातृ/मादर, पितृ/पिदर, भ्रातृ/बिरादर (भाई), दुहितृ/दुख़्तर (बेटी), वंश/बच/बच्चा, शुकर/ख़ूक (सूअर), अश्व/अस्ब (घोड़ा), गौ/गऊ (गाय), जन/जान (संस्कृत में व्यक्ति/जीव, फ़ारसी में जीवन), भूत/बूद (था, अतीत), ददामि/दादन (देना), युवन/जवान, नव/नव (नया) और सम/हम (बराबर)।
+
+नाम 
+भारत में इसे फ़ारसी कहा जाता है। इसका मूल नाम 'पारसी' है पर अरब लोग, जिन्होंने फ़ारस पर सातवीं सदी के अंत तक अधिकार कर लिया था, की वर्णमाला में 'प' अक्षर नहीं होता है। इस कारण से वे इसे फ़ारसी कहते थे और यही नाम भारत में भी प्रयुक्त होता है। यूनानी लोग फार्स को पर्सिया (पुरानी ग्रीक में पर्सिस, Πέρσις) कहते थे। जिसके कारण यहाँ की भाषा पर्सियन (Persian) कहलाई। यही नाम अंग्रेज़ी सहित अन्य यूरोपीय भाषाओं में प्रयुक्त होता है।
+
+इतिहास 
+फ़ारसी एक ईरानी भाषा है जो हिंद-यूरोपीय भाषा परिवार की हिंद-ईरानी शाखा में आती है। सामान्यत: ईरानी भाषा तीन अवधियों से जानी जाती है। आमतौर पर इस रूप में इसे ऐसे संदर्भित किया जाता हैं: पुरानी, मध्य और नई (आधुनिक) अवधि। ये ईरानी इतिहास में तीन युगों के अनुरूप हैं; पुराना युग हख़ामनी साम्राज्य से कुछ पहले का समय हैं, हख़ामनी युग और हख़ामनी के कुछ बाद वाला समय (400-300 ईसा पूर्व) है, मध्य युग सासानी युग और सासानी के कुछ बाद वाला समय और नया युग वर्तमान दिन तक की अवधि है।
+
+उपलब्ध दस्तावेजों के अनुसार, फ़ारसी भाषा "केवल अकेली ईरानी भाषा" है, जिसके लिए इसके तीनों चरणों के नज़दीकी भाषाविज्ञान-संबंधी रिश्ते स्थापित किए गए हैं तो पुरानी, मध्य और नई फ़ारसी एक ही फारसी भाषा का प्रतिनिधित्व करते हैं, कि नई फ़ारसी मध्य और पुरानी फारसी की एक प्रत्यक्ष वंशज है।
+
+दक्षिण एशिया में प्रयोग 
+फ़ारसी भाषा ने पश्चिम एशिया, यूरोप, मध्य एशिया और दक्षिण एशियाई क्षेत्र की कई आधुनिक भाषाओं के निर्माण को प्रभावित किया। दक्षिण एशिया में तुर्कों-फ़ारसी गज़नवी विजय के बाद, फारसी सबसे पहले इस क्षेत्र में समाविष्ट की गई थी। ब्रिटिश उपनिवेश की स्थापना के पाँच सदियों पूर्व तक, फारसी व्यापक रूप से भारतीय उपमहाद्वीप में एक दूसरी भाषा के रूप में इस्तेमाल की जाती थी। इसने उपमहाद्वीप पर कई मुस्लिम दरबारों में संस्कृति और शिक्षा की भाषा के रूप में प्रमुखता ले ली। हालाँकि 1843 के शुरू से, अंग्रेजी और हिंदुस्तानी ने धीरे धीरे उपमहाद्वीप पर महत्व में फ़ारसी को बदल दिया। फ़ारसी के ऐतिहासिक प्रभाव के साक्ष्य भारतीय उपमहाद्वीप की कुछ भाषाओं पर इसके प्रभाव की सीमा में देखा जा सकता है। फारसी से उधार लिए शब्द अभी भी आमतौर पर कुछ हिंद आर्य भाषाओं में उपयोग किए जाते है। कुछ मुख्य दक्षिण एशियाई साम्राज्य जिनकी राजभाषा फ़ारसी थी:-
+
+मोमिन राजवंश, ग़ज़नवी साम्राज्य, ग़ोरी राजवंश, गुलाम वंश, ख़िलजी वंश, तुग़लक़ वंश, सय्यद वंश, लोदी वंश, सूरी साम्राज्य, मुगल साम्राज्य तथा बहमनी सल्तनत।
+
+किस्में
+पश्चिमी फ़ारसी (फारसी, ईरानी फ़ारसी, या फारसी) ईरान में बोली जाती हैं और इराक और फारस की खाड़ी राज्यों में अल्पसंख्यकों द्वारा।
+पूर्वी फ़ारसी (दरी फ़ारसी, अफगान फ़ारसी, या दरी) अफगानिस्तान में बोली जाती है।
+ताजिकी (ताजिक फारसी) ताजिकिस्तान और उजबेकिस्तान में बोली जाती है। यह सिरिलिक लिपि में लिखी जाती है।
+
+निम्नलिखित फारसी से संबंधित कुछ भाषाएं हैं:
+लूरी, (या लोरी), दक्षिण पश्चिमी ईरान के प्रांतों में मुख्य रूप से बोली जाती हैं जैसे, लूरिस्तान, कोगिलुये और बोयर-अख़्मद प्रांत, फ़ार्स प्रांत के कुछ पश्चिमी भाग और ख़ूज़स्तान के कुछ भाग।
+लारी, (दक्षिणी ईरान में)
+टाट, अजरबैजान, रूस, आदि के कुछ हिस्सों में बोली जाती हैं।
+
+स्वर विज्ञान 
+ईरानी फ़ारसी में छह स्वर और बाईस व्यंजन है।
+
+व्याकरण 
+फारसी एक अभिश्लेषणी भाषा हैं।
+फ़ारसी के पदविज्ञान में प्रत्यय प्रबल हैं, हालाँकि उपसर्गों की एक छोटी संख्या है। क्रिया काल और पहलू व्यक्त कर सकते हैं और वे व्यक्ति और संख्या में विषय के साथ सहमत हैं। फारसी में कोई व्याकरणिक लिंग नहीं है और न ही सर्वनाम प्राकृतिक लिंग के लिए चिह्नित हैं।
+
+शब्द संग्रह 
+फ़ारसी ने अरबी भाषा पर कम प्रभाव डाला है और साथ ही मेसोपोटामिया की अन्य भाषाओं पर और इसकी मूल शब्दावली मध्य फारसी मूल की है, पर नई फारसी में अरबी शाब्दिक मदों की काफी मात्रा है, जिनका फ़ारसीकरण हो गया है। अरबी मूल के फारसी शब्दों में विशेष रूप से इस्लामी शब्द शामिल हैं। अन्य ईरानी, तुर्की और भारतीय भाषाओं में अरबी शब्दावली आम तौर पर नई फ़ारसी से नकल की गई है।
+
+वर्तनी 
+आधुनिक ईरानी फारसी और दारी में पाठ विशाल बहुमत से अरबी लिपि के साथ लिखा जाता है। ताजिक, जो मध्य एशिया की रूसी और तुर्की भाषाओं से प्रभावित है, को कुछ भाषाविदों द्वारा फारसी बोली माना जाता है, जिसे ताजिकिस्तान में सिरिलिक लिपि के साथ लिखा जाता है।
+
+इन्हें भी देखें 
+ फारसी का साहित्य
+ अवस्ताई भाषा
+ पहलवी भाषा
+ पहलवी लिपि
+
+बाहरी कड़ियाँ 
+ फ़ारसी सीखें
+
+सन्दर्भ 
+
+फ़ारसी
+ईरानी भाषाएँ
+ईरान की भाषाएँ
+विश्व की प्रमुख भाषाएं
+
+Asteroids is a space-themed multidirectional shooter arcade video game designed by Lyle Rains and Ed Logg released in November 1979 by Atari, Inc. The player controls a single spaceship in an asteroid field which is periodically traversed by flying saucers. The object of the game is to shoot and destroy the asteroids and saucers, while not colliding with either, or being hit by the saucers' counter-fire. The game becomes harder as the number of asteroids increases.
+
+Asteroids was conceived during a meeting between Logg and Rains, who decided to use hardware developed by Howard Delman previously used for Lunar Lander. Asteroids was based on an unfinished game titled Cosmos; its physics model, control scheme, and gameplay elements were derived from Spacewar!, Computer Space, and Space Invaders and refined through trial and error.  The game is rendered on a vector display in a two-dimensional view that wraps around both screen axes.
+
+Asteroids was one of the first major hits of the golden age of arcade games; the game sold  47,840 upright cabinets and 8,725 cocktail cabinets arcade cabinets and proved both popular with players and influential with developers. In the 1980s it was ported to Atari's home systems, and the Atari VCS version sold over three million copies. The game was widely imitated, and it directly influenced Defender, Gravitar, and many other video games.
+
+Gameplay
+
+The objective of Asteroids is to destroy asteroids and saucers. The player controls a triangular ship that can rotate left and right, fire shots straight forward, and thrust forward. Once the ship begins moving in a direction, it will continue in that direction for a time without player intervention unless the player applies thrust in a different direction. The ship eventually comes to a stop when not thrusting. The player can also send the ship into hyperspace, causing it to disappear and reappear in a random location on the screen, at the risk of self-destructing or appearing on top of an asteroid.
+
+Each level starts with a few large asteroids drifting in various directions on the screen. Objects wrap around screen edges – for instance, an asteroid that drifts off the top edge of the screen reappears at the bottom and continues moving in the same direction. As the player shoots asteroids, they break into smaller asteroids that move faster and are more difficult to hit. Smaller asteroids are also worth more points. Two flying saucers appear periodically on the screen; the "big saucer" shoots randomly and poorly, while the "small saucer" fires frequently at the ship. After reaching a score of 40,000, only the small saucer appears. As the player's score increases, the angle range of the shots from the small saucer diminishes until the saucer fires extremely accurately. Once the screen has been cleared of all asteroids and flying saucers, a new set of large asteroids appears, thus starting the next level. The game gets harder as the number of asteroids increases until after the score reaches a range between 40,000 and 60,000. The player starts with 3–5 lives upon game start and gains an extra life per 10,000 points. Play continues to the last ship lost, which ends the game. The machine "turns over" at 99,990 points, which is the maximum high score that can be achieved.
+
+Lurking exploit
+In the original game design, saucers were supposed to begin shooting as soon as they appeared, but this was changed.  Additionally, saucers can only aim at the player's ship on-screen; they are not capable of aiming across a screen boundary. These behaviors allow a "lurking" strategy, in which the player stays near the edge of the screen opposite the saucer. By keeping just one or two rocks in play, a player can shoot across the boundary and destroy saucers to accumulate points indefinitely with little risk of being destroyed.  Arcade operators began to complain about losing revenue due to this exploit. In response, Atari issued a patched EPROM and, due to the impact of this exploit, Atari (and other companies) changed their development and testing policies to try to prevent future games from having such exploits.
+
+Development
+
+Concept
+Asteroids was conceived by Lyle Rains and programmed by Ed Logg with collaborations from other Atari staff. Logg was impressed with the Atari Video Computer System (later called the Atari 2600), and he joined Atari's coin-op division to work on Dirt Bike, which was never released due to an unsuccessful field test. Paul Mancuso joined the development team as Asteroids technician and engineer Howard Delman contributed to the hardware. During a meeting in April 1979, Rains discussed Planet Grab, a multiplayer arcade game later renamed to Cosmos. Logg did not know the name of the game, thinking Computer Space as "the inspiration for the two-dimensional approach". Rains conceived of Asteroids as a mixture of Computer Space and Space Invaders, combining the two-dimensional approach of Computer Space with Space Invaders addictive gameplay of "completion" and "eliminate all threats". The unfinished game featured a giant, indestructible asteroid, so Rains asked Logg: "Well, why don’t we have a game where you shoot the rocks and blow them up?" In response, Logg described a similar concept where the player selectively shoots at rocks that break into smaller pieces. Both agreed on the concept.
+
+Hardware
+Asteroids was implemented on hardware developed by Delman and is a vector game, in which the graphics are composed of lines drawn on a vector monitor. Rains initially wanted the game done in raster graphics, but Logg, experienced in vector graphics, suggested an XY monitor because the high image quality would permit precise aiming. The hardware is chiefly a MOS 6502 executing the game program, and QuadraScan, a high-resolution vector graphics processor developed by Atari and referred to as an "XY display system" and the "Digital Vector Generator (DVG)".
+
+The original design concepts for QuadraScan came out of Cyan Engineering, Atari's off-campus research lab in Grass Valley, California, in 1978. Cyan gave it to Delman, who finished the design and first used it for Lunar Lander. Logg received Delman's modified board with five buttons, 13 sound effects, and additional RAM, and he used it to develop Asteroids. The size of the board was 4 by 4 inches, and it was "linked up" to a monitor.
+
+Implementation
+Logg modeled the player's ship, the five-button control scheme, and the game physics after Spacewar!, which he had played as a student at the University of California, Berkeley, but made several changes to improve playability. The ship was programmed into the hardware and rendered by the monitor, and it was configured to move with thrust and inertia. The hyperspace button was not placed near Logg's right thumb, which he was dissatisfied with, as he had a problem "tak[ing] his hand off the thrust button". Drawings of asteroids in various shapes were incorporated into the game. Logg copied the idea of a high score table with initials from Exidy's Star Fire.
+
+The two saucers were formulated to be different from each other. A steadily decreasing timer shortens intervals between saucer attacks to keep the player from not shooting asteroids and saucers. A "heartbeat" soundtrack quickens as the game progresses. The game does not have a sound chip. Delman created a hardware circuit for 13 sound effects by hand which was wired onto the board.
+
+A prototype of Asteroids was well received by several Atari staff and engineers, who "wander[ed] between labs, passing comment and stopping to play as they went". Logg was often asked when he would be leaving by employees eager to play the prototype, so he created a second prototype for staff to play. Atari tested the game in arcades in Sacramento, California, and also observed players during focus group sessions at Atari. Players used to Spacewar! struggled to maintain grip on the thrust button and requested a joystick; players accustomed to Space Invaders noted they get no break in the game. Logg and other engineers observed proceedings and documented comments in four pages.
+
+Asteroids slows down as the player gains 50–100 lives, because there is no limit to the number of lives displayed. The player can "lose" the game after more than 250 lives are collected.
+
+Ports
+Asteroids was released for the Atari VCS (later renamed the Atari 2600) and Atari 8-bit family in 1981, then the Atari 7800 in 1986. A port for the Atari 5200, identical to the Atari 8-bit computer version, was in development in 1982, but was not published. The Atari 7800 version was a launch title and includes cooperative play; the asteroids have colorful textures and the "heartbeat" sound effect remains intact. 
+
+Programmers Brad Stewart and Bob Smith were unable to fit the Atari VCS port into a 4 KB cartridge. It became the first game for the console to use bank switching, a technique that increases ROM size from 4 KB to 8 KB.
+
+Reception
+Asteroids was immediately successful upon release. It displaced Space Invaders by popularity in the United States and became Atari's best selling arcade game of all time, with over 70,000 units sold. Atari earned an estimated $150 million in sales from the game, and arcade operators earned a further $500 million from coin drops. Atari had been in the process of manufacturing another vector game, Lunar Lander, but demand for Asteroids was so high "that several hundred Asteroids games were shipped in Lunar Lander cabinets". Asteroids was so popular that some video arcade operators had to install large boxes to hold the number of coins spent by players. It replaced Space Invaders at the top of the US RePlay amusement arcade charts in April 1980, though Space Invaders remained the top game at street locations. Asteroids went on to become the highest-grossing arcade video game of 1980 in the United States, dethroning Space Invaders. It shipped 70,000 arcade units worldwide in 1980, including over 60,000 sold in the United States that year, and grossed about  worldwide ( adjusted for inflation) by 1980. The game remained at the top of the US RePlay charts through March 1981. However, the game did not perform as well overseas in Europe and Asia. It sold 30,000 arcade units overseas, for a total of 100,000 arcade units sold worldwide. Atari manufactured 76,312 units from its US and Ireland plants, including 21,394 Asteroids Deluxe units. It was a commercial failure in Japan when it released there in 1980, partly due to its complex controls and partly due to the Japanese market beginning to lose interest in space shoot 'em ups at the time.
+
+Asteroids received positive reviews from video game critics and has been regarded as Logg's magnum opus. Richard A. Edwards reviewed the 1981 Asteroids home cartridge in The Space Gamer No. 46. Edwards commented that "this home cartridge is a virtual duplicate of the ever-popular Atari arcade game. [...] If blasting asteroids is the thing you want to do then this is the game, but at this price I can't wholeheartedly recommend it". Video Games Player magazine reviewed the Atari VCS version, rating the graphics and sound a B, while giving the game an overall B+ rating. Electronic Fun with Computers & Games magazine gave the Atari VCS version an A rating.
+
+William Cassidy, writing for GameSpy's "Classic Gaming", noticed its innovations, including being one of the first video games to track initials and allow players to enter their initials for appearing in the top 10 high scores, and commented, "the vector graphics fit the futuristic outer space theme very well". In 1995, Flux magazine ranked the arcade version 11th on their "Top 100 Video Games." In 1996, Next Generation listed it as number 39 on their "Top 100 Games of All Time", particularly lauding the control dynamics which require "the constant juggling of speed, positioning, and direction". In 1999, Next Generation listed Asteroids as number 29 on their "Top 50 Games of All Time", commenting that "Asteroids was a classic the day it was released, and it has never lost any of its appeal". Asteroids was ranked fourth on Retro Gamers list of "Top 25 Arcade Games"; the Retro Gamer staff cited its simplicity and the lack of a proper ending as allowances of revisiting the game. In 2012, Asteroids was listed on Time All-Time 100 greatest video games list. Entertainment Weekly named Asteroids one of the top ten games for the Atari 2600 in 2013. It was added to the Museum of Modern Art's collection of video games. In 2021, The Guardian listed Asteroids as the second greatest video game of the 1970s, just below Galaxian (1979). By contrast, in March 1983 the Atari 8-bit port of Asteroids won sixth place in Softlines Dog of the Year awards "for badness in computer games", Atari division, based on reader submissions.
+
+Usage of the names of Saturday Night Live characters "Mr. Bill" and "Sluggo" to refer to the saucers in an Esquire article about the game led to Logg receiving a cease and desist letter from a lawyer with the "Mr. Bill Trademark".
+
+Legacy
+
+Arcade sequels
+Released in 1981, Asteroids Deluxe was the first sequel to Asteroids. Dave Shepperd edited the code and made enhancements to the game without Logg's involvement. The onscreen objects are tinted blue, and hyperspace is replaced by a shield that depletes when used. The asteroids rotate, and new "killer satellite" enemies break into smaller ships that home in on the player's position. The arcade machine's monitor displays vector graphics overlaying a holographic backdrop. The game is more difficult than the original and enables saucers to shoot across the screen boundary, eliminating the lurking strategy for high scores in the original.
+
+Space Duel, released in arcades in 1982, replaces the rocks with colorful geometric shapes and adds cooperative two-player gameplay.
+
+1987's Blasteroids includes "power-ups, ship morphing, branching levels, bosses, and the ability to dock your ships in multiplayer for added firepower". Blasteroids uses raster graphics instead of vectors.
+
+Re-releases
+The game is half of the Atari Lynx pairing Super Asteroids & Missile Command, and included in the 1993  Microsoft Arcade compilation.
+
+Activision published an enhanced version of Asteroids for the PlayStation (1998), Nintendo 64 (1999), Microsoft Windows (1998), Game Boy Color (1999), and Mac (2000). The Atari Flashback series of dedicated video game consoles have included both the 2600 and the arcade versions of Asteroids.
+
+Published by Crave Entertainment on December 14, 1999, Asteroids Hyper 64 made the ship and asteroids 3D and added new weapons and a multiplayer mode.
+
+A technical demo of Asteroids was developed by iThink for the Atari Jaguar but was never released. Unofficially referred to as Asteroids 2000, it was demonstrated at E-JagFest 2000.
+
+In 2001, Infogrames released Atari Anniversary Edition for the Dreamcast, PlayStation, and Microsoft Windows. Developed by Digital Eclipse, it includes emulated versions of Asteroids and other games. The arcade and Atari 2600 versions of Asteroids were included in Atari Anthology for both Xbox and PlayStation 2.
+
+Released on November 28, 2007, the Xbox Live Arcade port of Asteroids has revamped HD graphics along with an added intense "throttle monkey" mode. The arcade and 2600 versions were made available through Microsofts Game Room service in 2010. Glu Mobile released an enhanced mobile phone port.
+
+Asteroids is included on Atari Greatest Hits Volume 1 for the Nintendo DS.
+
+An updated version of the game was announced in 2018 for the Intellivision Amico.
+
+Both the Atari 2600 and Atari 7800 versions of the game was included on Atari Collection 1 and 2 in 2020 for the Evercade.
+
+A remake, Asteroids: Recharged, was released in December 2021 for the Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S. It was developed by Adamvision Studios and SneakyBox.
+
+Clones
+Quality Software's Asteroids in Space (1980) was one of the best selling games for the Apple II and voted one of the most popular software titles of 1978-80 by Softalk magazine.
+In December 1981, Byte reviewed eight Asteroids clones for home computers. Three clones for the Apple II were reviewed together in the 1982 Creative Computing Software Buyers Guide: The Asteroid Field, Asteron, and Apple-Oids. In the last of these, the asteroids are in the shape of apples. Two independent clones, Asteroid for the Apple II and Fasteroids for TRS-80, were renamed to Planetoids and sold by Adventure International. Others clones include Acornsoft's Meteors, Moons of Jupiter for the VIC-20, MineStorm for the Vectrex, and Quicksilva's Meteor Storm for the ZX Spectrum which uses speech synthesis.  A poorly implemented Asteroids clone for the VIC-20, published by Bug-Byte, motivated Jeff Minter to found Llamasoft.
+
+The Intellivision game Meteor! was cancelled to avoid a lawsuit for being too similar to Asteroids and was reworked as Astrosmash.  The game borrows elements from Asteroids and Space Invaders.
+
+Proposed film adaptation
+On July 2, 2009, Universal Pictures offered Emmerich the option to direct the film adaptation of Asteroids, with Matt Lopez writing the script and Lorenzo di Bonaventura will produce the film adaptation. On June 8, 2011, Universal offered Roland Emmerich the option to direct the film adaptation with Lopez and di Bonaventura still attached to write and produce the film adaptation, respectively, which Emmerich passed on directing, while Evan Spiliotopoulos and F. Scott Frazier were hired to rewrite the screenplay.
+
+World records
+On February 6, 1982, Leo Daniels of Carolina Beach, North Carolina, set a world record score of 40,101,910 points.  On November 13 of the same year, 15-year-old Scott Safran of Cherry Hill, New Jersey, set a new record at 41,336,440 points.  In 1998, to congratulate Safran on his accomplishment, the Twin Galaxies Intergalactic Scoreboard searched for him for four years until 2002, when it was discovered that he had died in an accident in 1989. In a ceremony in Philadelphia on April 27, 2002, Walter Day of Twin Galaxies presented an award to the surviving members of Safran's family, commemorating his achievement. On April 5, 2010, John McAllister broke Safran's record with a high score of 41,838,740 in a 58-hour Internet livestream.
+
+References
+
+External links
+
+  at Atari
+ 
+ 
+ 
+ 
+ 
+
+1979 video games
+Arcade video games
+Atari 2600 games
+Atari 7800 games
+Atari 8-bit family games
+Atari arcade games
+Atari Lynx games
+Cancelled Atari 5200 games
+Cancelled Atari Jaguar games
+Ed Logg games
+Fiction about asteroids
+Game Boy games
+Game Boy Color games
+Multidirectional shooters
+Multiplayer and single-player video games
+Science fiction video games
+Sega arcade games
+Taito arcade games
+Xbox 360 games
+Xbox 360 Live Arcade games
+Vector arcade video games
+Video games developed in the United States
+
+मास या महीना, काल मापन की एक ईकाई है। भारतीय कालगणना में एक वर्ष में १२ मास होते हैं। इसी तरह ग्रेगरी कैलेण्डर में भी एक वर्ष में बारह मास होते हैं। विभिन्न संस्कृतियों में मासों के नाम अलग-अलग हैं।
+
+हिन्दू पंचांग के अनुसार 
+एक वर्ष के बारह मासों के नाम ये हैं-
+ चैत्र नक्षत्र चित्रा में पूर्णिमा होने के कारण
+ वैशाख विशाखा में होने के
+ ज्येष्ठ ज्येष्ठा में
+ आषाढ पूर्वाषाढ़ में
+ श्रावण श्रवणा में
+ भाद्रपद पूर्वभाद्रपद में
+ आश्विन अश्विनी में
+ कार्तिक कृतिका में
+ अग्रहायण या मार्गशीर्ष मृगशिरा में
+ पौष पुष्य में
+ माघ मघा में
+ फाल्गुन उत्तराफाल्गुनी में
+जैसा आपने पढ़ा की हिन्दू पंचांग के नौसर साल का पहला महिना चेत्र से शुरू होता है और साल का अंतिम महिना फाल्गुन है इन सभी महीनों मे से वैशाख का महिना ही एक ऐसा महिना है जिसमे 28 दिन होते है और लीप बर्ष के दुरान इसमे 29 दिन होते है
+
+ग्रेगरी कालदर्शक के अनुसार
+ग्रेगरी कालदर्शक के अनुसार अंग्रेजी भाषा में वर्ष के बारह महीनों के नाम ये हैं-
+ जनवरी (जैन्युअरी)
+ फ़रवरी (फ़ेब्रुअरी)
+ मार्च
+ अप्रैल (एप्रिल)
+ मेइ
+ जून
+ जुलाइ
+ अगस्त (औगस्ट)
+ सितम्बर (सेप्टेंबर)
+ अक्टूबर (ऑक्टोबर)
+ नवम्बर (नोवेंबर)
+ दिसम्बर (डिसेंबर)
+
+मास
+
+An annual plant is a plant that completes its life cycle, from germination to the production of seeds, within one growing season, and then dies. The length of growing seasons and period in which they take place vary according to geographical location, and may not correspond to the four traditional seasonal divisions of the year.
+
+Description
+With respect to the traditional seasons, annual plants are generally categorized into summer annuals and winter annuals. Summer annuals germinate during spring or early summer and mature by autumn of the same year. Winter annuals germinate during the autumn and mature during the spring or summer of the following calendar year.
+
+One seed-to-seed life cycle for an annual plant can occur in as little as a month in some species, though most last several months. Oilseed rapa can go from seed-to-seed in about five weeks under a bank of fluorescent lamps. This style of growing is often used in classrooms for education. Many desert annuals are therophytes, because their seed-to-seed life cycle is only weeks and they spend most of the year as seeds to survive dry conditions.
+
+
+Cultivation
+In cultivation, many food plants are, or are grown as, annuals, including virtually all domesticated grains. Some perennials and biennials are grown in gardens as annuals for convenience, particularly if they are not considered cold hardy for the local climate. Carrot, celery and parsley are true biennials that are usually grown as annual crops for their edible roots, petioles and leaves, respectively. Tomato, sweet potato and bell pepper are tender perennials usually grown as annuals. Ornamental perennials commonly grown as annuals are impatiens, mirabilis, wax begonia, snapdragon, pelargonium, coleus and petunia. Examples of true annuals include corn, wheat, rice, lettuce, peas, watermelon, beans, zinnia and marigold.
+
+Summer
+
+Summer annuals sprout, flower, produce seed, and die, during the warmer months of the year.
+
+The lawn weed crabgrass is a summer annual.
+
+Winter
+Winter annuals germinate in autumn or winter, live through the winter, and then bloom in winter or spring.
+
+The plants grow and bloom during the cool season when most other plants are dormant or other annuals are in seed form waiting for warmer weather to germinate. Winter annuals die after flowering and setting seed. The seeds germinate in the autumn or winter when the soil temperature is cool.
+
+Winter annuals typically grow low to the ground, where they are usually sheltered from the coldest nights by snow cover, and make use of warm periods in winter for growth when the snow melts. Some common winter annuals include henbit, deadnettle, chickweed, and winter cress.
+
+Winter annuals are important ecologically, as they provide vegetative cover that prevents soil erosion during winter and early spring when no other cover exists and they provide fresh vegetation for animals and birds that feed on them. Although they are often considered to be weeds in gardens, this viewpoint is not always necessary, as most of them die when the soil temperature warms up again in early to late spring when other plants are still dormant and have not yet leafed out.
+
+Even though they do not compete directly with cultivated plants, sometimes winter annuals are considered a pest in commercial agriculture, because they can be hosts for insect pests or fungal diseases (such as ovary smut, Microbotryum sp.) which attack crops being cultivated.  The property that prevents the soil from drying out can also be problematic for commercial agriculture.
+
+Molecular genetics
+In 2008, it was discovered that the inactivation of only two genes in one species of annual plant leads to its conversion into a perennial plant. Researchers deactivated the SOC1 and FUL genes (which control flowering time) of Arabidopsis thaliana. This switch established phenotypes common in perennial plants, such as wood formation.
+
+See also
+
+ - Plant that flowers & sets seeds once, then dies.
+Ephemeral plant
+
+References
+
+External links
+
+ 
+Garden plants
+
+दैनिक पूजा विधि हिन्दू धर्म की कई उपासना पद्धतियों में से एक है। ये एक दैनिक कर्म है। विभिन्न देवताओं को प्रसन्न करने के लिये कई मन्त्र बताये गये हैं, जो लगभग सभी पुराणों से हैं। वैदिक मन्त्र यज्ञ और हवन के लिये होते हैं।
+
+पूजा की रीति इस तरह है : पहले कोई भी देवता चुनें, जिसकी पूजा करनी है। फ़िर विधिवत निम्नलिखित मन्त्रों (सभी संस्कृत में हैं) के साथ उसकी पूजा करें। पौराणिक देवताओं के मन्त्र इस प्रकार हैं :
+
+ विनायक : ॐ सिद्धि विनायकाय नमः . 
+ सरस्वती : ॐ सरस्वत्यै नमः . 
+ लक्ष्मी : ॐ महा लक्ष्म्यै नमः . 
+ दुर्गा : ॐ दुर्गायै नमः . 
+ महाविष्णु : ॐ श्री विष्णवे नमः . or ॐ नमो नारायणाय .
+ कृष्ण : ॐ श्री कृष्णाय नमः . or ॐ नमो भगवते वासुदेवाय .
+ राम : ॐ श्री रामचन्द्राय नमः . 
+ नरसिंह : ॐ श्री नारसिंहाय नमः . 
+ शिव : ॐ शिवाय नमः या ॐ नमः शिवाय . 
+
+नीचे लिखे मन्त्र गणेश के लिये हैं :
+
+दैनिक विनायक पूजा
+
+ध्यान श्लोक 
+
+शुक्लाम्बर धरं विष्णुं शशि वर्णम् चतुर्भुजम् . 
+प्रसन्न वदनं ध्यायेत् सर्व विघ्नोपशान्तये ..
+
+षोडशोपचार पूजन 
+
+ॐ सिद्धि विनायकाय नमः . ध्यायामि . 
+ॐ सिद्धि विनायकाय नमः . आवाहयामि . 
+ॐ सिद्धि विनायकाय नमः . आसनं समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . अर्घ्यं समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . पाद्यं समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . आचमनीयं समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . उप हारं समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . पंचामृत स्नानं समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . वस्त्र युग्मं समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . यज्ञोपवीतं धारयामि . 
+ॐ सिद्धि विनायकाय नमः . आभरणानि समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . गंधं धारयामि . 
+ॐ सिद्धि विनायकाय नमः . अक्षतान् समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . पुष्पैः पूजयामि . 
+ॐ सिद्धि विनायकाय नमः . प्रतिष्ठापयामि .
+
+अथ अंग पूजा 
+विनायक (गणेश) के पाँच नाम चुनें और ऐसा कहें :
+ॐ महा गणपतये नमः . पादौ पूजयामि . 
+ॐ विघ्न राजाय नमः . उदरम् पूजयामि . 
+ॐ एक दन्ताय नमः . बाहुं पूजयामि . 
+ॐ गौरी पुत्राय नमः . हृदयं पूजयामि . 
+ॐ आदि वन्दिताय नमः . शिरः पूजयामि . 
+ॐ सिद्धि विनायकाय नमः . अंग पूजां समर्पयामि .
+
+अथ पत्र पूजा 
+विनायक (गणेश) के पाँच नाम चुनें और ऐसा कहें :
+ॐ महा गणपतये नमः . आम्र पत्रम् समर्पयामि . 
+ॐ विघ्न राजाय नमः . केतकि पत्रम् समर्पयामि . 
+ॐ एक दन्ताय नमः . मन्दार पत्रम् समर्पयामि . 
+ॐ गौरी पुत्राय नमः . सेवन्तिका पत्रं समर्पयामि . 
+ॐ आदि वन्दिताय नमः . कमल पत्रं समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . पत्र पूजां समर्पयामि .
+
+अथ पुष्प पूजा 
+विनायक (गणेश) के पाँच नाम चुनें और ऐसा कहें :
+ॐ महा गणपतये नमः . जाजी पुष्पं समर्पयामि . 
+ॐ विघ्न राजाय नमः . केतकी पुष्पं समर्पयामि . 
+ॐ एक दन्ताय नमः . मन्दार पुष्पं समर्पयामि . 
+ॐ गौरी पुत्राय नमः . सेवन्तिका पुष्पं समर्पयामि . 
+ॐ आदि वन्दिताय नमः . कमल पुष्पं समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . पुष्प पूजां समर्पयामि .
+
+नाम पूजा 
+अगर सम्भव हो तो गणेश के 108 नाम जपें :
+
+ॐ सुमुखाय नमः . एक दन्ताय नमः . 
+कपिलाय नमः . गज कर्णकाय नमः . 
+लम्बोदराय नमः . विकटाय नमः . 
+विघ्न राजाय नमः . विनायकाय नमः . 
+धूम केतवे नमः . गणाध्यक्षाय नमः . 
+भालचन्द्राय नमः . गजाननाय नमः . 
+वक्रतुण्डाय नमः . हेरम्बाय नमः . 
+स्कन्द पूर्वजाय नमः . सिद्धि विनायकाय नमः . 
+श्री महागणपतये नमः . नाम पूजां समर्पयामि .
+
+उत्तर पूजा 
+
+ॐ सिद्धि विनायकाय नमः . धूपं आघ्रापयामि . 
+ॐ सिद्धि विनायकाय नमः . दीपं दर्शयामि . 
+ॐ सिद्धि विनायकाय नमः . नैवेद्यं निवेदयामि . 
+ॐ सिद्धि विनायकाय नमः . फलाष्टकं समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . ताम्बूलं समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . कर्पूर नीराजनं समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . मंगल आरतीं समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . पुष्पांजलिं समर्पयामि . 
+
+यानि कानि च पापानि जन्मान्तर कृतानि च .
+
+तानि तानि विनश्यन्ति प्रदक्षिणा पदे पदे ..
+
+प्रदक्षिणा नमस्कारान् समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . समस्त राजोपचारान् समर्पयामि . 
+ॐ सिद्धि विनायकाय नमः . मंत्र पुष्पं समर्पयामि . 
+
+वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ .
+
+निर्विघ्नं कुरु मे देव सर्व कार्येषु सर्वदा ..
+
+प्रार्थनां समर्पयामि . 
+
+आवाहनं न जानामि न जानामि विसर्जनं .
+
+पूजाविधिं न जानामि क्षमस्व पुरुषोत्तम ..
+
+क्षमापनं समर्पयामि .
+
+विसर्जन पूजा 
+
+ॐ सिद्धि विनायकाय नमः . पुनरागमनाय च .
+
+सन्दर्भ
+
+हिन्दू धर्म
+
+Actinopterygii (; ), members of which are known as ray-finned fish or actinopterygians, is a class of bony fish that comprise over 50% of living vertebrate species. They are so called because of their lightly built fins made of webs of skin supported by radially extended bony spines, as opposed to the bulkier, fleshy lobed fins of the sister class Sarcopterygii (lobe-finned fish). Resembling folding fans, the actinopterygian fins can change shape and wetted area easily, providing superior thrust-to-weight ratios per movement compared to sarcopterygian and chondrichthyian fins. The fin rays attach directly to the proximal or basal skeletal elements, the radials, which represent the articulation between these fins and the internal skeleton (e.g., pelvic and pectoral girdles).
+
+The vast majority (~99%) of actinopterygians are teleosts. By species count, they dominate the subphylum Vertebrata, and constitute nearly 99% of the over 30,000 extant species of fish. They are the most abundant nektonic aquatic animals and are ubiquitous throughout freshwater and marine environments from the deep sea to subterranean waters to the highest mountain streams. Extant species can range in size from Paedocypris, at ; to the massive ocean sunfish, at ; and to the long-bodied oarfish, at .
+
+Characteristics
+
+Ray-finned fishes occur in many variant forms. The main features of  typical ray-finned fish are shown in the adjacent diagram. The swim bladder is a more derived structure than the lung and used for buoyancy. Except from the bichirs, which just like the Sarcopterygii (lobe-finned fish) have retained the ancestral condition of ventrally budding lungs, the swim bladder in ray-finned fishes derives from a dorsal bud above the foregut. In early forms the swim bladder could still be used for breathing, a trait still present in Holostei (bowfins and gars). In some fish, like the arapaima, the swim bladder has been modified for breathing air again, and in other lineages it have been completely lost.
+
+Ray-finned fishes have many different types of scales; but all teleosts have leptoid scales. The outer part of these scales fan out with bony ridges, while the inner part is crossed with fibrous connective tissue. Leptoid scales are thinner and more transparent than other types of scales, and lack the hardened enamel or dentine-like layers found in the scales of many other fish. Unlike ganoid scales, which are found in non-teleost actinopterygians, new scales are added in concentric layers as the fish grows.
+
+Teleosts also differ from other ray-finned fishes in having gone through a whole-genome duplication (paleopolyploidy).
+
+Body shapes and fin arrangements
+
+Ray-finned fish vary in size and shape, in their feeding specializations, and in the number and arrangement of their ray-fins.
+
+Reproduction
+
+In nearly all ray-finned fish, the sexes are separate, and in most species the females spawn eggs that are fertilized externally, typically with the male inseminating the eggs after they are laid. Development then proceeds with a free-swimming larval stage. However other patterns of ontogeny exist, with one of the commonest being sequential hermaphroditism. In most cases this involves protogyny, fish starting life as females and converting to males at some stage, triggered by some internal or external factor. Protandry, where a fish converts from male to female, is much less common than protogyny.
+
+Most families use external rather than internal fertilization. Of the oviparous teleosts, most (79%) do not provide parental care. Viviparity, ovoviviparity, or some form of parental care for eggs, whether by the male, the female, or both parents is seen in a significant fraction (21%) of the 422 teleost families; no care is likely the ancestral condition. The oldest case of viviparity in ray-finned fish is found in Middle Triassic species of Saurichthys. Viviparity is relatively rare and is found in about 6% of living teleost species; male care is far more common than female care. Male territoriality "preadapts" a species for evolving male parental care.
+
+There are a few examples of fish that self-fertilise. The mangrove rivulus is an amphibious, simultaneous hermaphrodite, producing both eggs and spawn and having internal fertilisation. This mode of reproduction may be related to the fish's habit of spending long periods out of water in the mangrove forests it inhabits. Males are occasionally produced at temperatures below  and can fertilise eggs that are then spawned by the female. This maintains genetic variability in a species that is otherwise highly inbred.
+
+Classification and fossil record
+
+Actinopterygii is divided into the classes Cladistia and Actinopteri. The latter comprises the subclasses Chondrostei and Neopterygii. The Neopterygii, in turn, is divided into the infraclasses Holostei and Teleostei. During the Mesozoic (Triassic, Jurassic, Cretaceous) and Cenozoic the teleosts in particular diversified widely. As a result, 96% of living fish species are teleosts (40% of all fish species belong to the teleost subgroup Acanthomorpha), while all other groups of actinopterygians represent depauperate lineages.
+
+The classification of ray-finned fishes can be summarized as follows:
+
+ Cladistia, which include bichirs and reedfish
+ Actinopteri, which include:
+ Chondrostei, which include Acipenseriformes (paddlefishes and sturgeons)
+ Neopterygii, which include:
+Teleostei (most living fishes)
+Holostei, which include:
+Lepisosteiformes (gars)
+Amiiformes (bowfin)
+
+The cladogram below shows the main clades of living actinopterygians and their evolutionary relationships to other extant groups of fishes and the four-limbed vertebrates (tetrapods). The latter include mostly terrestrial species but also groups that became secondarily aquatic (e.g. Whales and Dolphins). Tetrapods evolved from a group of bony fish during the Devonian period. Approximate divergence dates for the different actinopterygian clades (in millions of years, mya) are from Near et al., 2012.
+
+The polypterids (bichirs and reedfish) are the sister lineage of all other actinopterygians, the Acipenseriformes (sturgeons and paddlefishes) are the sister lineage of Neopterygii, and Holostei (bowfin and gars) are the sister lineage of teleosts. The Elopomorpha (eels and tarpons) appear to be the most basal teleosts.
+
+The earliest known fossil actinopterygian is Andreolepis hedei, dating back 420 million years (Late Silurian), remains of which have been found in Russia, Sweden, and Estonia. Crown group actinopterygians most likely originated near the Devonian-Carboniferous boundary. The earliest fossil relatives of modern teleosts are from the Triassic period (Prohalecites, Pholidophorus), although it is suspected that teleosts originated already during the Paleozoic Era.
+
+Taxonomy
+The listing below is a summary of all extinct (indicated by a dagger, †) and living groups of Actinopterygii with their respective taxonomic rank. The taxonomy follows Phylogenetic Classification of Bony Fishes with notes when this differs from Nelson, ITIS and FishBase and extinct groups from Van der Laan 2016 and Xu 2021.
+
+ Order †?Asarotiformes Schaeffer 1968
+ Order †?Discordichthyiformes Minikh 1998
+ Order †?Paphosisciformes Grogan & Lund 2015
+ Order †?Scanilepiformes Selezneya 1985
+ Order †Cheirolepidiformes Kazantseva-Selezneva 1977
+ Order †Paramblypteriformes Heyler 1969
+ Order †Rhadinichthyiformes
+ Order †Palaeonisciformes Hay 1902
+ Order †Tarrasiiformes sensu Lund & Poplin 2002
+ Order †Ptycholepiformes Andrews et al. 1967
+ Order †Haplolepidiformes Westoll 1944
+ Order †Aeduelliformes Heyler 1969
+ Order †Platysomiformes Aldinger 1937
+ Order †Dorypteriformes Cope 1871
+ Order †Eurynotiformes Sallan & Coates 2013
+ Class Cladistia Pander 1860
+ Order †Guildayichthyiformes Lund 2000
+ Order Polypteriformes Bleeker 1859 (bichirs and reedfishes)
+ Class Actinopteri Cope 1972 s.s.
+ Order †Elonichthyiformes Kazantseva-Selezneva 1977
+ Order †Phanerorhynchiformes
+ Order †Bobasatraniiformes Berg 1940
+ Order †Saurichthyiformes Aldinger 1937
+ Subclass Chondrostei Müller, 1844
+ Order †Birgeriiformes Heyler 1969
+ Order †Chondrosteiformes Aldinger, 1937
+ Order Acipenseriformes Berg 1940 (includes sturgeons and paddlefishes)
+ Subclass Neopterygii Regan 1923 sensu Xu & Wu 2012
+ Order †Pholidopleuriformes Berg 1937
+Order †Redfieldiiformes Berg 1940
+Order †Platysiagiformes Brough 1939
+Order †Polzbergiiformes Griffith 1977
+Order †Perleidiformes Berg 1937
+Order †Louwoichthyiformes Xu 2021
+ Order †Peltopleuriformes Lehman 1966
+ Order †Luganoiiformes Lehman 1958
+ Order †Pycnodontiformes Berg 1937
+ Infraclass Holostei Müller 1844
+ Division Halecomorphi Cope 1872 sensu Grande & Bemis 1998
+ Order †Parasemionotiformes Lehman 1966
+ Order †Ionoscopiformes Grande & Bemis 1998
+ Order Amiiformes Huxley 1861 sensu Grande & Bemis 1998 (bowfins)
+ Division Ginglymodi Cope 1871
+ Order †Dapediiformes Thies & Waschkewitz 2015
+ Order †Semionotiformes Arambourg & Bertin 1958
+ Order Lepisosteiformes Hay 1929 (gars)
+ Clade Teleosteomorpha Arratia 2000 sensu Arratia 2013
+ Order †Prohaleciteiformes Arratia 2017
+ Division Aspidorhynchei Nelson, Grand & Wilson 2016
+ Order †Aspidorhynchiformes Bleeker 1859
+ Order †Pachycormiformes Berg 1937
+ Infraclass Teleostei Müller 1844 sensu Arratia 2013
+ Order †?Araripichthyiformes
+ Order †?Ligulelliiformes Taverne 2011
+ Order †?Tselfatiiformes Nelson 1994
+ Order †Pholidophoriformes Berg 1940
+ Order †Dorsetichthyiformes Nelson, Grand & Wilson 2016
+ Order †Leptolepidiformes
+ Order †Crossognathiformes Taverne 1989
+ Order †Ichthyodectiformes Bardeck & Sprinkle 1969
+ Teleocephala de Pinna 1996 s.s.
+Megacohort Elopocephalai Patterson 1977 sensu Arratia 1999 (Elopomorpha Greenwood et al. 1966)
+ Order Elopiformes Gosline 1960 (ladyfishes and tarpon)
+ Order Albuliformes Greenwood et al. 1966 sensu Forey et al. 1996 (bonefishes)
+ Order Notacanthiformes Goodrich 1909 (halosaurs and spiny eels)
+ Order Anguilliformes Jarocki 1822 sensu Goodrich 1909 (true eels)
+ Megacohort Osteoglossocephalai sensu Arratia 1999
+Supercohort Osteoglossocephala sensu Arratia 1999 (Osteoglossomorpha Greenwood et al. 1966)
+ Order †Lycopteriformes Chang & Chou 1977
+ Order Hiodontiformes McAllister 1968 sensu Taverne 1979 (mooneye and goldeye)
+ Order Osteoglossiformes Regan 1909 sensu Zhang 2004 (bony-tongued fishes)
+ Supercohort Clupeocephala Patterson & Rosen 1977 sensu Arratia 2010
+Cohort Otomorpha Wiley & Johnson 2010 (Otocephala; Ostarioclupeomorpha)
+ Subcohort Clupei Wiley & Johnson 2010 (Clupeomorpha Greenwood et al. 1966)
+ Order †Ellimmichthyiformes Grande 1982
+ Order Clupeiformes Bleeker 1859 (herrings and anchovies)
+ Subcohort Alepocephali
+ Order Alepocephaliformes Marshall 1962
+ Subcohort Ostariophysi Sagemehl 1885
+ Section Anotophysa (Rosen & Greenwood 1970) Sagemehl 1885
+ Order †Sorbininardiformes Taverne 1999
+ Order Gonorynchiformes Regan 1909 (milkfishes)
+ Section Otophysa Garstang 1931
+ Order Cypriniformes Bleeker 1859 sensu Goodrich 1909 (barbs, carp, danios, goldfishes, loaches, minnows, rasboras)
+ Order Characiformes Goodrich 1909 (characins, pencilfishes, hatchetfishes, piranhas, tetras, dourado / golden (genus Salminus) and pacu)
+ Order Gymnotiformes Berg 1940 (electric eels and knifefishes)
+ Order Siluriformes Cuvier 1817 sensu Hay 1929 (catfishes)
+ Cohort Euteleosteomorpha (Greenwood et al. 1966) (Euteleostei Greenwood 1967 sensu Johnson & Patterson 1996)
+Subcohort Lepidogalaxii
+ Lepidogalaxiiformes Betancur-Rodriguez et al. 2013 (salamanderfish)
+ Subcohort Protacanthopterygii Greenwood et al. 1966 sensu Johnson & Patterson 1996
+ Order Argentiniformes (barreleyes and slickheads) (formerly in Osmeriformes)
+ Order Galaxiiformes
+ Order Salmoniformes Bleeker 1859 sensu Nelson 1994 (salmon and trout)
+ Order Esociformes Bleeker 1859 (pike)
+ Subcohort Stomiati
+ Order Osmeriformes (smelts)
+ Order Stomiatiformes Regan 1909 (bristlemouths and marine hatchetfishes)
+ Subcohort Neoteleostei Nelson 1969
+Infracohort Ateleopodia
+ Order Ateleopodiformes (jellynose fish)
+ Infracohort Eurypterygia Rosen 1973
+Section Aulopa [Cyclosquamata Rosen 1973]
+ Order Aulopiformes Rosen 1973 (Bombay duck and lancetfishes)
+ Section Ctenosquamata Rosen 1973
+Subsection Myctophata [Scopelomorpha]
+ Order Myctophiformes Regan 1911 (lanternfishes)
+ Subsection Acanthomorpha Betancur-Rodriguez et al. 2013
+Division Lampridacea Betancur-Rodriguez et al. 2013 [Lampridomorpha; Lampripterygii]
+ Order Lampriformes Regan 1909 (oarfish, opah and ribbonfishes)
+ Division Paracanthomorphacea sensu Grande et al. 2013 (Paracanthopterygii Greenwood 1937)
+ Order Percopsiformes Berg 1937 (cavefishes and trout-perches)
+ Order †Sphenocephaliformes Rosen & Patterson 1969
+ Order Zeiformes Regan 1909 (dories)
+ Order Stylephoriformes Miya et al. 2007
+ Order Gadiformes Goodrich 1909 (cods)
+ Division Polymixiacea Betancur-Rodriguez et al. 2013 (Polymyxiomorpha; Polymixiipterygii)
+ Order †Pattersonichthyiformes Gaudant 1976
+ Order †Ctenothrissiformes Berg 1937
+ Order Polymixiiformes Lowe 1838 (beardfishes)
+ Division Euacanthomorphacea Betancur-Rodriguez et al. 2013 (Euacanthomorpha sensu Johnson & Patterson 1993; Acanthopterygii Gouan 1770 sensu])
+Subdivision Berycimorphaceae Betancur-Rodriguez et al. 2013
+ Order Beryciformes (fangtooths and pineconefishes) (incl. Stephanoberyciformes; Cetomimiformes)
+ Subdivision Holocentrimorphaceae Betancur-Rodriguez et al. 2013
+ Order Holocentriformes (Soldierfishes)
+ Subdivision Percomorphaceae Betancur-Rodriguez et al. 2013 (Percomorpha sensu Miya et al. 2003; Acanthopteri)
+Series Ophidiimopharia Betancur-Rodriguez et al. 2013
+ Order Ophidiiformes (pearlfishes)
+ Series Batrachoidimopharia Betancur-Rodriguez et al. 2013
+ Order Batrachoidiformes (toadfishes)
+ Series Gobiomopharia Betancur-Rodriguez et al. 2013
+ Order Kurtiformes(Nurseryfishes and cardinalfishes)
+ Order Gobiiformes(Sleepers and gobies)
+ Series Scombrimopharia Betancur-Rodriguez et al. 2013
+ Order Syngnathiformes (seahorses, pipefishes, sea moths, cornetfishes and flying gurnards)
+ Order Scombriformes (Tunas and (mackerels)
+ Series Carangimopharia Betancur-Rodriguez et al. 2013
+ Subseries Anabantaria Betancur-Rodriguez et al. 2014
+ Order Synbranchiformes (swamp eels)
+ Order Anabantiformes (Labyrinthici) (gouramies, snakeheads, )
+ Subseries Carangaria Betancur-Rodriguez et al. 2014
+ Carangaria incertae sedis
+ Order Istiophoriformes Betancur-Rodriguez 2013 (Marlins, swordfishes, billfishes)
+ Order Carangiformes (Jack mackerels, pompanos)
+ Order Pleuronectiformes Bleeker 1859 (flatfishes)
+ Subseries Ovalentaria Smith & Near 2012 (Stiassnyiformes sensu Li et al. 2009)
+ Ovalentaria incertae sedis
+ Order Cichliformes Betancur-Rodriguez et al. 2013 (Cichlids, Convict blenny, leaf fishes)
+ Order Atheriniformes Rosen 1964 (silversides and rainbowfishes)
+ Order Cyprinodontiformes Berg 1940 (livebearers, killifishes)
+ Order Beloniformes Berg 1940 (flyingfishes and ricefishes)
+ Order Mugiliformes Berg 1940 (mullets)
+ Order Blenniiformes Springer 1993 (Blennies)
+ Order Gobiesociformes Gill 1872 (Clingfishes)
+ Series Eupercaria Betancur-Rodriguez et al. 2014 (Percomorpharia Betancur-Rodriguez et al. 2013)
+Eupercaria incertae sedis
+ Order Gerreiformes (Mojarras)
+ Order Labriformes (Wrasses and Parrotfishes)
+ Order Caproiformes (Boarfishes)
+ Order Lophiiformes Garman 1899 (Anglerfishes)
+ Order Tetraodontiformes Regan 1929 (Filefishes and pufferfish)
+ Order Centrarchiformes Bleeker 1859 (Sunfishes and mandarin fishes)
+Order Gasterosteiformes (Sticklebacks and relatives)
+Order Scorpaeniformes (Lionfishes and relatives)
+ Order Perciformes Bleeker 1859
+
+References
+
+External links
+ 
+ 
+
+Ray-finned fish
+Fish classes
+Silurian bony fish
+Extant Silurian first appearances
+
+The ampere ( ,  ; symbol: A), often shortened to amp, is the unit of electric current in the International System of Units (SI).  One ampere is equal to 1 coulomb moving past a point in 1 second, or  electrons' worth of charge moving past a point in 1 second. It is named after French mathematician and physicist André-Marie Ampère (1775–1836), considered the father of electromagnetism along with Danish physicist Hans Christian Ørsted.
+
+As of the 2019 redefinition of the SI base units, the ampere is defined by fixing the elementary charge  to be exactly  (coulomb), which means an ampere is an electric current equivalent to  elementary charges moving every  seconds or  elementary charges moving in a second. Prior to the redefinition the ampere was defined as the current passing through 2 parallel wires 1 metre apart that produces a magnetic force of  newtons per metre.
+
+The earlier CGS system has two units of current, one structured similar to the SI's and the other using Coulomb's law as a fundamental relationship, with the unit of charge defined by measuring the force between two charged metal plates. The unit of current is then defined as one unit of charge per second. In SI, the unit of charge, the coulomb, is defined as the charge carried by one ampere during one second.
+
+History 
+
+The ampere is named for French physicist and mathematician André-Marie Ampère (1775–1836), who studied electromagnetism and laid the foundation of electrodynamics. In recognition of Ampère's contributions to the creation of modern electrical science, an international convention, signed at the 1881 International Exposition of Electricity, established the ampere as a standard unit of electrical measurement for electric current.
+
+The ampere was originally defined as one tenth of the unit of electric current in the centimetre–gram–second system of units. That unit, now known as the abampere, was defined as the amount of current that generates a force of two dynes per centimetre of length between two wires one centimetre apart. The size of the unit was chosen so that the units derived from it in the MKSA system would be conveniently sized.
+
+The "international ampere" was an early realization of the ampere, defined as the current that would deposit  of silver per second from a silver nitrate solution. Later, more accurate measurements revealed that this current is .
+
+Since power is defined as the product of current and voltage, the ampere can alternatively be expressed in terms of the other units using the relationship , and thus 1 A = 1 W/V. Current can be measured by a multimeter, a device that can measure electrical voltage, current, and resistance.
+
+Former definition in the SI 
+Until 2019, the SI defined the ampere as follows:
+The ampere is that constant current which, if maintained in two straight parallel conductors of infinite length, of negligible circular cross-section, and placed one metre apart in vacuum, would produce between these conductors a force equal to  newtons per metre of length. 
+
+Ampère's force law states that there is an attractive or repulsive force between two parallel wires carrying an electric current. This force is used in the formal definition of the ampere.
+
+The SI unit of charge, the coulomb, was then defined as "the quantity of electricity carried in 1 second by a current of 1 ampere". Conversely, a current of one ampere is one coulomb of charge going past a given point per second:
+
+In general, charge  was determined by steady current  flowing for a time  as .
+
+This definition of the ampere was most accurately realised using a Kibble balance, but in practice the unit was maintained via Ohm's law from the units of electromotive force and resistance, the volt and the ohm, since the latter two could be tied to physical phenomena that are relatively easy to reproduce, the Josephson effect and the quantum Hall effect, respectively.
+
+Techniques to establish the realisation of an ampere had a relative uncertainty of approximately a few parts in 10, and involved realisations of the watt, the ohm and the volt.
+
+Present definition 
+The 2019 redefinition of the SI base units defined the ampere by taking the fixed numerical value of the elementary charge  to be  when expressed in the unit C, which is equal to A⋅s, where the second is defined in terms of , the unperturbed ground state hyperfine transition frequency of the caesium-133 atom.
+
+The SI unit of charge, the coulomb, "is the quantity of electricity carried in 1 second by a current of 1 ampere". Conversely, a current of one ampere is one coulomb of charge going past a given point per second:
+
+In general, charge  is determined by steady current  flowing for a time  as .
+
+Constant, instantaneous and average current are expressed in amperes (as in "the charging current is 1.2 A") and the charge accumulated (or passed through a circuit) over a period of time is expressed in coulombs (as in "the battery charge is "). The relation of the ampere (C/s) to the coulomb is the same as that of the watt (J/s) to the joule.
+
+Units derived from the ampere 
+The international system of units (SI) is based on 7 SI base units the second, metre, kilogram, kelvin, ampere, mole, and candela representing 7 fundamental types of physical quantity, or "dimensions", (time, length, mass, temperature,  electric current, amount of substance, and luminous intensity respectively) with all other SI units being defined using these. These SI derived units can either be given special names e.g. watt, volt, lux, etc. or defined in terms of others, e.g. metre per second. The units with special names derived from the ampere are:
+
+There are also some SI units that are frequently used in the context of electrical engineering and electrical appliances, but can be defined independently of the ampere, notably the hertz, joule, watt, candela, lumen, and lux.
+
+SI prefixes 
+
+Like other SI units, the ampere can be modified by adding a prefix that multiplies it by a power of 10.
+
+See also 
+ Ammeter
+ Ampacity (current-carrying capacity)
+ Electric current
+ Electric shock
+ Hydraulic analogy
+ Magnetic constant
+ Orders of magnitude (current)
+
+References
+
+External links 
+ The NIST Reference on Constants, Units, and Uncertainty
+ NIST Definition of ampere and μ0
+
+SI base units
+Units of electric current
+
+रुपया (रु॰) (हिंदी और उर्दू: रुपया, संस्कृत: रूप्यकम् से उत्प्रेरित जिसका अर्थ चांदी का सिक्का है) भारत, पाकिस्तान, श्रीलंका, नेपाल, मॉरीशस और सेशल्स में उपयोग मे आने वाली मुद्रा का नाम है। इंडोनेशिया की मुद्रा को रुपिया जबकि मालदीव की मुद्रा को रुफियाह, के नाम से जाना जाता है जो असल मे हिन्दी शब्द रुपया का ही बदला हुआ रूप है। भारतीय और पाकिस्तानी रुपये मे सौ पैसे होते हैं (एक पैसा) में, श्रीलंकाई रुपये में १०० सेंट, तथा नेपाली रुपये को सौ पैसे या चार सूकों (एकवचन सूक) या दो मोहरों (एकवचन मोहर) मे विभाजित किया जा सकता है।
+
+नामकरण 
+"रुपया" शब्द का उद्गम संस्कृत के शब्द रुप् या रुप्याह् मे निहित है, जिसका अर्थ कच्ची चांदी होता है और रूप्यकम् का अर्थ चांदी का सिक्का है। कालांतर मे पूरे उपमहाद्वीप मे मौद्रिक प्रणाली को सुदृढ़ करने के लिए तीनों धातुओं के सिक्कों का मानकीकरण किया गया।
+
+मूल्य 
+‘रुपया’ आज तक प्रचलन मे है। भारत मे ब्रिटिश राज के दौरान भी यह प्रचलन मे रहा, इस दौरान इसका वजन ११.६६ ग्राम था और इसके भार का ९१.७% तक शुद्ध चांदी थी। १९वीं शताब्दी के अंत मे रुपया प्रथागत ब्रिटिश मुद्रा विनिमय दर, के अनुसार एक शिलिंग और चार पेंस के बराबर था वहीं यह एक पाउंड स्टर्लिंग का १ / १५ हिस्सा था। 
+
+उन्नीसवीं सदी मे जब दुनिया में सबसे सशक्त अर्थव्यवस्थायें स्वर्ण मानक पर आधारित थीं तब चांदी से बने रुपये के मूल्य मे भीषण गिरावट आयी। संयुक्त राज्य अमेरिका और विभिन्न यूरोपीय उपनिवेशों में विशाल मात्रा मे चांदी के स्रोत मिलने के परिणामस्वरूप चांदी का मूल्य सोने के अपेक्षा काफी गिर गया। अचानक भारत की मानक मुद्रा से अब बाहर की दुनिया से ज्यादा खरीद नहीं की जा सकती थी। इस घटना को ‘रुपए की गिरावट "के रूप में जाना जाता है।
+
+मूल्य वर्ग 
+पहले रुपए (११.६६ ग्राम) को १६ आने या ६४ पैसे या १९२ पाई में बांटा जाता था। रुपये का दशमलवीकरण १८६९ में सीलोन (श्रीलंका) में, १९५७ में भारत मे और १९६१ में पाकिस्तान में हुआ। इस प्रकार अब एक भारतीय रुपया १०० पैसे में विभाजित हो गया। भारत में कभी कभी पैसे के लिए नया पैसा शब्द भी इस्तेमाल किया जाता था। भारत मे भारतीय रिजर्व बैंक द्वारा मुद्रा जारी की जाती है, जबकि पाकिस्तान मे यह स्टेट बैंक ऑफ पाकिस्तान के द्वारा नियंत्रित होता है। 
+
+असम, त्रिपुरा और पश्चिम बंगाल में बोली जाने वाली असमिया और बांग्ला भाषाओं में, रुपये को टका के रूप में जाना जाता है और भारतीय बैंक नोटों पर भी इसी रूप में लिखा जाता है। भारत और पाकिस्तान की मुद्रा १, २, ५, १०, २०, ५०, १००, २००, ५०० और २००० रुपये के मूल्यवर्ग में जारी की जाती है, वहीं पाकिस्तान मे ५००० रुपये का नोट भी जारी किया जाता है। रुपये की बड़ी मूल्यवर्ग अक्सर लाख (१,००,०००) करोड़ (१,००,००,०००) और अरब (१,००,००,००,०००) रुपए में गिने जाते हैं।
+
+भारतीय रुपये का प्रतीक चिह्न
+
+वर्ष २०१० में भारत सरकार द्वारा एक रुपये के लिये प्रतीक चिह्न निर्धारित करने हेतु एक राष्ट्रीय प्रतियोगिता का आयोजन किया गया। जूरी द्वारा सभी प्रविष्टियों में से पाँच डिजाइनों को चुना गया जिनमें से अन्तिम रूप से आइआइटी के प्रवक्ता उदय कुमार के डिजाइन को चुना गया।
+
+सन्दर्भ
+
+यह भी देखे 
+ रुपए का इतिहास
+ खाड़ी रुपया
+
+बाहरी कड़ियाँ 
+ भारतीय मुद्रा के निर्माण की कहानी 
+ चांदी से टांका रहा है हमारे रुपये का (अर्थकाम)
+ पैसों के बारे में महान व्यक्तियों के विचार
+
+अर्थशास्त्र
+मुद्रा
+रुपया
