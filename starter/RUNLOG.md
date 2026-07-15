@@ -16,5 +16,5 @@
   * Rebuilt `train.py` with AdamW (betas 0.9, 0.95), Cosine Annealing schedule with 10% linear warmup, gradient clipping at 1.0, and a simulated effective batch size of 64 via Gradient Accumulation.
 * **Dev bpb Before/After:** 
   * Before: 3.6125
-  * After: [Insert your final bpb score here once train.py finishes]
+  * After: 1.6887
 * **Conclusion:** The massive 2.66x compression ratio allowed the model to process more text per sequence chunk, while weight-tying and MQA safely packed a high-capacity 6-layer model completely under the strict 2,000,000 parameter threshold.
